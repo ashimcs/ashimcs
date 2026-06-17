@@ -1,134 +1,161 @@
-<!-- BACKGROUND GLOW & ANIMATION HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=160&section=header&text=Ashim%20C%20S&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%83%C2%B7%E2%80%83%20AI%20Integration%20%E2%80%83%C2%B7%E2%80%83%20Mobile%20Architect&descColor=a0aec0&descAlignY=62&descSize=15&animation=fadeIn" />
+
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/main?type=soft&color=auto&height=260&section=header&text=ASHIM%20C%20S&subtitle=Full-Stack%20%26%20AI%20Engineer&fontSize=48&subFontSize=20&fontAlignY=48&animation=twinkling" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+AI-powered+products+from+Kerala%2C+India;Flutter+%C2%B7+Django+%C2%B7+LLMs+%C2%B7+Computer+Vision;MCA+%40+APJ+Abdul+Kalam+Technological+University;Open+to+freelance+%26+full-time+opportunities)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
 
-<!-- SOCIAL LINKS -->
-<p align="center">
-  <a href="mailto:ashimcs23@gmail.com"><img src="https://img.shields.io/badge/Email-ashimcs23%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/ashim-cs-4b7569397"><img src="https://img.shields.io/badge/LinkedIn-Ashim%20C%20S-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/ashimcs"><img src="https://img.shields.io/badge/GitHub-ashimcs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
----
-
-## 💫 About Me
-
-**Analytical Full-Stack Engineer & AI Vision Specialist** passionate about building intelligent, scalable, and beautiful digital experiences.
-
-I specialize in **Flutter mobile apps**, **robust Django backends**, and **cutting-edge AI/ML solutions** — particularly **Computer Vision** and **LLM integrations**.
-
-- 🧠 **AI & Vision**: Google Gemini, Llama-3-Vision, Groq, face-api.js
-- 📱 **Mobile**: Flutter/Dart — High-performance cross-platform apps
-- ⚙️ **Backend**: Django REST Framework, PostgreSQL, JWT + OTP Security
-- 🎓 **Education**: MCA with thesis on *Decentralized Mesh Networks & Edge AI*
-
----
-
-## 🎛️ GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashimcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimcs&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashimcs&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
-</p>
-
----
-
-## 🛠️ Technical Arsenal
-
-### Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Architecture
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-
-### AI & Computer Vision
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama_3_Vision-044F88?style=for-the-badge&logo=meta&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![face-api.js](https://img.shields.io/badge/face--api.js-339933?style=for-the-badge&logo=javascript&logoColor=white)
-
----
-
-## 🚀 Key Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌍 Smart Voyage</h3>
-      <p><strong>AI-Powered Travel Planner</strong></p>
-      <ul>
-        <li>Built asynchronous Flutter itinerary engine — reduced planning effort by <strong>40%</strong></li>
-        <li>Secure JWT + Dynamic OTP authentication system</li>
-        <li>Integrated Gemini & Groq for intelligent recommendations</li>
-      </ul>
-      <p><strong>Tech:</strong> Flutter • Django REST • PostgreSQL • Gemini • Groq</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>👁️ MindSpace</h3>
-      <p><strong>Real-time Emotional Intelligence Platform</strong></p>
-      <ul>
-        <li>Client-side facial emotion detection using <code>face-api.js</code></li>
-        <li>Real-time 7-emotion tracking with live analytics</li>
-        <li>Non-blocking canvas processing architecture</li>
-      </ul>
-      <p><strong>Tech:</strong> HTML5 Canvas • face-api.js • Django • MongoDB • Chart.js</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 VoxMark AI</h3>
-      <p><strong>Intelligent Content Generation Suite</strong></p>
-      <ul>
-        <li>Drag-and-drop canvas with 50% faster workflow</li>
-        <li>Background image processing with Pillow</li>
-        <li>Optimized memory usage for high-throughput tasks</li>
-      </ul>
-      <p><strong>Tech:</strong> Flutter • Django • MySQL • Google GenAI</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📡 Sentinel AI</h3>
-      <p><strong>Disaster Intelligence Mesh Network</strong></p>
-      <ul>
-        <li>Decentralized mesh using Google Nearby Connections</li>
-        <li>On-device Llama-3-Vision inference in offline mode</li>
-        <li>Academic thesis project</li>
-      </ul>
-      <p><strong>Tech:</strong> Flutter • Llama-3-Vision • BLE/Wi-Fi Direct</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashimcs&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashimcs&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<a href="https://www.linkedin.com/in/ashim-cs-4b7569397">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:ashimcs23@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="tel:+917025096864">
+  <img src="https://img.shields.io/badge/%2B91%207025096864-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ashimcs&style=flat-square&color=6366f1&label=profile+views" />
+
 </div>
 
 ---
 
-### Let's Connect & Build Something Extraordinary Together!
+## About
 
-**Open to freelance opportunities, collaborations, and exciting AI + Full-Stack projects.**
+I build **AI-powered full-stack products** — cross-platform mobile apps, secure backend systems, and intelligent pipelines that integrate LLMs, computer vision, and NLP into real workflows.
+
+My core stack is **Flutter + Django REST Framework**, with hands-on experience shipping integrations across Google Gemini Vision, Groq API, LLaMA 3 Vision, face-api.js, and the Google GenAI SDK. I work across the full delivery cycle — architecture, API design, database modeling, client demos.
+
+Currently pursuing my **MCA at KTU (2024–2026)** while building [Sentinel AI](#), a decentralized offline-capable disaster-response system as my final year project.
+
+> 📍 Kerala, India &nbsp;·&nbsp; 🎓 MCA @ KTU &nbsp;·&nbsp; 💼 Open to freelance & full-time
 
 ---
 
-*Made with precision & passion ✨*
+## Tech Stack
+
+**Mobile & Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-FF1709?style=flat-square&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**AI / ML**
+
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F54E27?style=flat-square&logo=thunderbird&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA_3_Vision-0467DF?style=flat-square&logo=meta&logoColor=white)
+![IBM AI](https://img.shields.io/badge/IBM_GenAI-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![face-api](https://img.shields.io/badge/face--api.js-FF6B6B?style=flat-square&logo=javascript&logoColor=white)
+
+---
+
+## Projects
+
+### 🛡️ Sentinel AI — Autonomous Disaster Intelligence Ecosystem
+*MCA Final Year Project · Flagship*
+
+Decentralized mobile communication platform for disaster scenarios where internet infrastructure fails. Built a **star-topology BLE/Wi-Fi mesh** via Google Nearby Connections API enabling device-to-device sync without internet. Powered by **LLaMA 3 Vision** for autonomous situational intelligence.
+
+`Flutter` `Django REST` `LLaMA 3 Vision` `Google Nearby Connections` `MySQL` `SQLite`
+
+---
+
+### 🧠 MindSpace — Computer Vision Emotional Analytics
+Browser-based biometric platform capturing webcam frames and mapping **facial landmarks → emotional state metrics** in real time via face-api.js. Historical dashboards backed by Django + MongoDB + Chart.js.
+
+`JavaScript` `face-api.js` `Django` `MongoDB` `Chart.js`
+
+---
+
+### ✈️ Smart Voyage — AI Travel Planner
+Cross-platform mobile app generating **multi-day intelligent itineraries** via Google Gemini Vision + Groq API. JWT-secured endpoints, OTP verification matrix, async UI rendering.
+
+`Flutter` `Django REST` `PostgreSQL` `Gemini Vision` `Groq API`
+
+---
+
+### 🎨 VoxMark AI — Content Generation Suite
+Mobile app with **interactive drag-and-drop canvas**, backend image rendering engine, and Google GenAI SDK integration. Presented data flow architecture to client stakeholders.
+
+`Flutter` `Django REST` `MySQL` `Google GenAI SDK` `Pillow`
+
+---
+
+### 💼 AI Career Guidance Suite — NLP Job Matching Engine
+Parses user profiles against job listings via **Groq NLP**, computes keyword match percentages, and generates localized career roadmaps with dynamic Chart.js visualizations.
+
+`Python` `Django` `Groq NLP API` `MySQL` `Chart.js`
+
+---
+
+### 🚗 CarCare — Emergency Vehicle Dispatch
+Real-time **SOS → nearest technician routing** via Leaflet.js maps. Automated transactional logging and SMTP alert dispatch network.
+
+`Django` `MySQL` `Leaflet.js` `SMTP` `Glassmorphism CSS`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashimcs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=9ca3af&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimcs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=9ca3af" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashimcs&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=a78bfa&currStreakLabel=6366f1&sideLabels=9ca3af&dates=9ca3af&currStreakNum=6366f1&sideNums=6366f1)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Certifications
+
+| | Certificate | Issuer |
+|---|---|---|
+| 🤖 | Generative AI Advanced Fine-Tuning for LLMs | IBM · Coursera |
+| 🏗️ | Generative AI & LLMs: Architecture & Data Preparation | IBM · Coursera |
+| 💡 | Introduction to Artificial Intelligence | IBM · Coursera |
+| 🔍 | Accelerate Your Job Search with AI | Google · Coursera |
+| 📱 | Flutter & Mobile App Architectures — 6 Month Intensive | Sans Borne Web Solutions |
+
+---
+
+<div align="center">
+
+**Let's build something.** &nbsp;[ashimcs23@gmail.com](mailto:ashimcs23@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ashim-cs-4b7569397)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" />
+
+</div>
