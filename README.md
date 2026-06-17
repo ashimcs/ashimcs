@@ -1,104 +1,134 @@
-<!-- DASHBOARD HEADER: ANIMATED GRADIENT WAVE -->
+<!-- BACKGROUND GLOW & ANIMATION HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/main?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=250&section=header&text=ASHIM%20C%20S&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Engineer%20%7C%20AI%20Specialist&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/main?type=soft&color=auto&height=260&section=header&text=ASHIM%20C%20S&subtitle=Full-Stack%20%26%20AI%20Engineer&fontSize=48&subFontSize=20&fontAlignY=48&animation=twinkling" width="100%" />
 </div>
 
-<!-- ANIMATED TYPING CONSOLE -->
-<div align="center">
-  <a href="https://github.com/ashimcs">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Architecting+Scalable+Backend+Ecosystems;Integrating+LLMs+%26+Computer+Vision;Building+Cross-Platform+Mobile+Apps;Freelance+Technology+Consultant&font=Space+Grotesk&center=true&width=650&height=50&color=00d2ff&vCenter=true&pause=1000&size=20" alt="Typing Engine" />
-  </a>
-</div>
+<br/>
 
-<!-- SECURE COMMS LINK BAR -->
-<div align="center">
-  <a href="mailto:ashimcs23@gmail.com"><img src="https://img.shields.io/badge/Email-Encrypted_Comm-00d2ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ashim-cs-4b7569397"><img src="https://img.shields.io/badge/LinkedIn-Global_Network-3a7bd5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="tel:+917025096864"><img src="https://img.shields.io/badge/Mobile-Direct_Line-050b14?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
-</div>
-
-<br>
+<!-- SOCIAL LINKS -->
+<p align="center">
+  <a href="mailto:ashimcs23@gmail.com"><img src="https://img.shields.io/badge/Email-ashimcs23%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/ashim-cs-4b7569397"><img src="https://img.shields.io/badge/LinkedIn-Ashim%20C%20S-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/ashimcs"><img src="https://img.shields.io/badge/GitHub-ashimcs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-## 🛰️ Execution Matrix
+## 💫 About Me
 
-I am an analytical, highly adaptive technology professional specializing in full-stack software engineering, scalable backend systems, and intelligent automated workflows[cite: 1]. I possess extensive hands-on experience integrating large language models (LLMs) and deep learning computer vision frameworks to build software solutions for complex computational tasks[cite: 1]. 
+**Analytical Full-Stack Engineer & AI Vision Specialist** passionate about building intelligent, scalable, and beautiful digital experiences.
 
-* **Academic Foundation:** Master of Computer Applications (MCA) with a focus on Distributed Machine Learning Pipelines and Cross-Platform Enterprise Framework Design[cite: 1].
-* **Leadership Protocol:** Exceptional multilingual communicator, steering collaborative code reviews, and leading cross-functional development teams toward successful engineering milestones[cite: 1].
+I specialize in **Flutter mobile apps**, **robust Django backends**, and **cutting-edge AI/ML solutions** — particularly **Computer Vision** and **LLM integrations**.
+
+- 🧠 **AI & Vision**: Google Gemini, Llama-3-Vision, Groq, face-api.js
+- 📱 **Mobile**: Flutter/Dart — High-performance cross-platform apps
+- ⚙️ **Backend**: Django REST Framework, PostgreSQL, JWT + OTP Security
+- 🎓 **Education**: MCA with thesis on *Decentralized Mesh Networks & Edge AI*
 
 ---
 
-## 🎛️ Core Engine Array
+## 🎛️ GitHub Analytics
 
-<table align="center" width="100%">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashimcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimcs&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashimcs&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
+</p>
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Architecture
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+### AI & Computer Vision
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama_3_Vision-044F88?style=for-the-badge&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![face-api.js](https://img.shields.io/badge/face--api.js-339933?style=for-the-badge&logo=javascript&logoColor=white)
+
+---
+
+## 🚀 Key Projects
+
+<table>
   <tr>
-    <td align="center" width="50%">
-      <h3>📱 Mobile & Frontend Interface</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,bootstrap&theme=dark" alt="Frontend Specs" />
-      </a>
-      <br><br>
-      <em>Flutter SDK, Dart, State Management (Provider, Bloc)</em>[cite: 1]
+    <td width="50%" valign="top">
+      <h3>🌍 Smart Voyage</h3>
+      <p><strong>AI-Powered Travel Planner</strong></p>
+      <ul>
+        <li>Built asynchronous Flutter itinerary engine — reduced planning effort by <strong>40%</strong></li>
+        <li>Secure JWT + Dynamic OTP authentication system</li>
+        <li>Integrated Gemini & Groq for intelligent recommendations</li>
+      </ul>
+      <p><strong>Tech:</strong> Flutter • Django REST • PostgreSQL • Gemini • Groq</p>
     </td>
-    <td align="center" width="50%">
-      <h3>⚙️ Backend & Database Operations</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,mongodb,firebase&theme=dark" alt="Backend Specs" />
-      </a>
-      <br><br>
-      <em>Django REST Framework, Secure Endpoints, JWT Authentication</em>[cite: 1]
+    <td width="50%" valign="top">
+      <h3>👁️ MindSpace</h3>
+      <p><strong>Real-time Emotional Intelligence Platform</strong></p>
+      <ul>
+        <li>Client-side facial emotion detection using <code>face-api.js</code></li>
+        <li>Real-time 7-emotion tracking with live analytics</li>
+        <li>Non-blocking canvas processing architecture</li>
+      </ul>
+      <p><strong>Tech:</strong> HTML5 Canvas • face-api.js • Django • MongoDB • Chart.js</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 VoxMark AI</h3>
+      <p><strong>Intelligent Content Generation Suite</strong></p>
+      <ul>
+        <li>Drag-and-drop canvas with 50% faster workflow</li>
+        <li>Background image processing with Pillow</li>
+        <li>Optimized memory usage for high-throughput tasks</li>
+      </ul>
+      <p><strong>Tech:</strong> Flutter • Django • MySQL • Google GenAI</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Sentinel AI</h3>
+      <p><strong>Disaster Intelligence Mesh Network</strong></p>
+      <ul>
+        <li>Decentralized mesh using Google Nearby Connections</li>
+        <li>On-device Llama-3-Vision inference in offline mode</li>
+        <li>Academic thesis project</li>
+      </ul>
+      <p><strong>Tech:</strong> Flutter • Llama-3-Vision • BLE/Wi-Fi Direct</p>
     </td>
   </tr>
 </table>
 
-### 🤖 Artificial Intelligence & Vision Engine
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashimcs&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Google_Gemini_Vision-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Llama_3_Vision-044F88?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq_NLP_Engine-F55036?style=for-the-badge&logo=processor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Face_API.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python_Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=ashimcs&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
 
-## 🚀 High-Impact Production Deployments
+### Let's Connect & Build Something Extraordinary Together!
 
-| 🌍 Freelance & Production Architecture | 🎓 Academic & Security Research |
-| :--- | :--- |
-| **Smart Voyage (AI Travel Planner)**<br>Constructed custom UI state rendering mechanisms cutting manual planning effort by approximately 40%[cite: 1]. Implemented secure JWT token routines and dynamic OTP verification structures[cite: 1].<br>*Stack:* `Flutter` `Django REST` `PostgreSQL` `Gemini Vision`[cite: 1] | **Sentinel AI (Disaster Intelligence)**<br>Orchestrated an offline-first mobile communication platform forming localized star-topology meshes via BLE/Wi-Fi Direct[cite: 1]. Configured Llama-3-Vision models for local processing[cite: 1].<br>*Stack:* `Flutter` `Nearby Connections API` `Llama-3-Vision`[cite: 1] |
-| **VoxMark AI (Content Gen Suite)**<br>Designed highly modular interfaces cutting customer workflow cycles by 50%[cite: 1]. Built scalable background image-rendering machines using Python Pillow[cite: 1].<br>*Stack:* `Flutter` `Python` `MySQL` `Google GenAI`[cite: 1] | **Shieldify (Web App Firewall)**<br>Authored interactive log-parsing tools capturing real-time security events and malicious vector execution attempts[cite: 1].<br>*Stack:* `JavaScript` `Django Framework` `SQLite`[cite: 1] |
-| **MindSpace (Emotional Tracking)**<br>Constructed client-side biometric workflows using face-api.js mapping facial landmarks into 7 precise emotional matrices[cite: 1].<br>*Stack:* `HTML5` `face-api.js` `Django` `MongoDB`[cite: 1] | **Safety (Urgent Response System)**<br>Leveraged clean OOP methodologies to build decoupled background processing frameworks preserving battery lifecycle[cite: 1].<br>*Stack:* `Native Android SDK (Java)` `REST APIs`[cite: 1] |
+**Open to freelance opportunities, collaborations, and exciting AI + Full-Stack projects.**
 
 ---
 
-## 📈 System Analytics & Live Telemetry
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashimcs&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy Graph" />
-</div>
-
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ashimcs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d2ff&icon_color=3a7bd5" alt="GitHub Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimcs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d2ff" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashimcs&theme=radical&bg_color=0D1117&hide_border=true&color=00d2ff&line=3a7bd5" alt="Activity Graph" width="100%" />
-</div>
-
-<!-- DASHBOARD FOOTER -->
-<br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/main?type=rect&color=gradient&customColorList=3a7bd5,00d2ff&height=60&section=footer" width="100%" />
-</div>
+*Made with precision & passion ✨*
