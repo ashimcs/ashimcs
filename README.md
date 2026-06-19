@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header with Twinkling effect -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,50:7c3aed,100:1a1a2e&height=250&section=header&text=Ashim%20CS&fontSize=65&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=70&descSize=22" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,50:7c3aed,100:1a1a2e&height=250&section=header&text=Ashim%20CS&fontSize=65&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20and%20AI%20Engineer&descAlignY=70&descSize=22" alt="Header" />
 
 <!-- Typing Animation via robust HTML -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+intelligent+apps+with+Flutter+%2B+Django;Wiring+AI+into+mobile+applications;Engineering+autonomous+systems;Crafting+premium+digital+experiences" alt="Typing SVG" />
