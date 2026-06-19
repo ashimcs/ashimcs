@@ -56,63 +56,56 @@ I take manual, slow processes and wire intelligence into them. My core focus lie
 
 <br>
 
-<div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Engineering</h2>
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Featured Engineering
 
-<table width="100%" border="0" style="border: none;">
-<tr>
-<td width="50%" valign="top" style="border: none;">
+<br>
 
-<h3>🚨 Sentinel AI</h3>
-<p><i>Autonomous Disaster Intelligence Ecosystem</i></p>
-<p>A star-topology mesh network over BLE + Wi-Fi Direct. Keeps devices communicating during disasters without cell service. Powered by on-device LLaMA 3 Vision for local image processing.</p>
-<p>
-<img src="https://img.shields.io/badge/Flutter-7c3aed?style=flat-square&color=1a1a2e"/>
-<img src="https://img.shields.io/badge/Django-7c3aed?style=flat-square&color=1a1a2e"/>
-<img src="https://img.shields.io/badge/LLaMA_3-7c3aed?style=flat-square&color=1a1a2e"/>
-</p>
+### 🚨 Sentinel AI
+**Autonomous Disaster Intelligence Ecosystem**
 
-</td>
-<td width="50%" valign="top" style="border: none;">
+> *When the internet goes down in a disaster zone, this app keeps phones talking to each other anyway. A star-topology mesh network over BLE + Wi-Fi Direct.*
 
-<h3>✈️ Smart Voyage</h3>
-<p><i>AI-Powered Travel Architect</i></p>
-<p>Generates full multi-day itineraries dynamically using Gemini Vision & Groq. Features JWT auth and real-time asynchronous UI rendering.</p>
-<p>
-<img src="https://img.shields.io/badge/Gemini-7c3aed?style=flat-square&color=1a1a2e"/>
-<img src="https://img.shields.io/badge/Postgres-7c3aed?style=flat-square&color=1a1a2e"/>
-<img src="https://img.shields.io/badge/Groq-7c3aed?style=flat-square&color=1a1a2e"/>
-</p>
+- **The Problem:** Total connectivity blackout during natural disasters.
+- **The Solution:** Built a robust mesh network using Google Nearby Connections. Allows devices to communicate locally without cell towers.
+- **AI Integration:** LLaMA 3 Vision runs entirely locally on-device to make sense of environmental data without relying on cloud APIs.
+- **Tech Stack:**
+  <img src="https://img.shields.io/badge/Flutter-7c3aed?style=flat-square&color=1a1a2e"/> <img src="https://img.shields.io/badge/Django-7c3aed?style=flat-square&color=1a1a2e"/> <img src="https://img.shields.io/badge/LLaMA_3-7c3aed?style=flat-square&color=1a1a2e"/> <img src="https://img.shields.io/badge/SQLite-7c3aed?style=flat-square&color=1a1a2e"/> <img src="https://img.shields.io/badge/Google_Nearby_API-7c3aed?style=flat-square&color=1a1a2e"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="border: none;">
+<hr style="border-top: 1px dashed #7c3aed; margin: 25px 0;">
 
-<h3>🧠 MindSpace</h3>
-<p><i>Real-time Emotion Tracking</i></p>
-<p>Analyzes facial landmarks live via webcam to plot user emotional states over time on a responsive dashboard.</p>
-<p>
-<img src="https://img.shields.io/badge/Face_API-7c3aed?style=flat-square&color=1a1a2e"/>
-<img src="https://img.shields.io/badge/Django-7c3aed?style=flat-square&color=1a1a2e"/>
-<img src="https://img.shields.io/badge/Chart.js-7c3aed?style=flat-square&color=1a1a2e"/>
-</p>
+### ✈️ Smart Voyage
+**AI-Powered Travel Architect**
 
-</td>
-<td width="50%" valign="top" style="border: none;">
+> *A complete travel planning platform that dynamically generates multi-day itineraries based on user preferences and constraints.*
 
-<h3>🎨 VoxMark AI</h3>
-<p><i>Generative Content Canvas</i></p>
-<p>Drag-and-drop generative suite utilizing Google's GenAI SDK for layout generation and asset processing.</p>
-<p>
-<img src="https://img.shields.io/badge/Flutter-7c3aed?style=flat-square&color=1a1a2e"/>
-<img src="https://img.shields.io/badge/Google_GenAI-7c3aed?style=flat-square&color=1a1a2e"/>
-</p>
+- **System Architecture:** Real-time asynchronous UI rendering that fetches AI data on the fly. Protected by a tight JWT + OTP session management system.
+- **AI Integration:** Combines Gemini Vision and Groq NLP to process complex travel constraints and visually parse destinations.
+- **Tech Stack:**
+  <img src="https://img.shields.io/badge/Gemini-7c3aed?style=flat-square&color=1a1a2e"/> <img src="https://img.shields.io/badge/Postgres-7c3aed?style=flat-square&color=1a1a2e"/> <img src="https://img.shields.io/badge/Groq-7c3aed?style=flat-square&color=1a1a2e"/> <img src="https://img.shields.io/badge/JWT_Auth-7c3aed?style=flat-square&color=1a1a2e"/>
 
-</td>
-</tr>
-</table>
+<hr style="border-top: 1px dashed #7c3aed; margin: 25px 0;">
+
+### 🧠 MindSpace
+**Real-time Emotion Tracking Dashboard**
+
+> *A browser-based biometric dashboard that analyzes facial expressions and plots emotional states over time.*
+
+- **Core Mechanics:** Reads 68 facial landmarks live via webcam directly in the browser to maintain user privacy.
+- **Data Visualization:** Telemetry data is streamed to a Django backend, stored in MongoDB, and plotted dynamically on Chart.js.
+- **Tech Stack:**
+  <img src="https://img.shields.io/badge/Face_API-7c3aed?style=flat-square&color=1a1a2e"/> <img src="https://img.shields.io/badge/Django-7c3aed?style=flat-square&color=1a1a2e"/> <img src="https://img.shields.io/badge/Chart.js-7c3aed?style=flat-square&color=1a1a2e"/> <img src="https://img.shields.io/badge/MongoDB-7c3aed?style=flat-square&color=1a1a2e"/>
+
+<hr style="border-top: 1px dashed #7c3aed; margin: 25px 0;">
+
+### 🎨 VoxMark AI
+**Generative Content Canvas**
+
+> *A drag-and-drop workspace that allows users to rapidly generate and manipulate content using Google's generative models.*
+
+- **Implementation:** Built a responsive canvas UI in Flutter. Backend uses Python Pillow for deep image manipulation.
+- **AI Integration:** Tapped into the Google GenAI SDK to automate layout generation and asset processing.
+- **Tech Stack:**
+  <img src="https://img.shields.io/badge/Flutter-7c3aed?style=flat-square&color=1a1a2e"/> <img src="https://img.shields.io/badge/Google_GenAI-7c3aed?style=flat-square&color=1a1a2e"/> <img src="https://img.shields.io/badge/Pillow-7c3aed?style=flat-square&color=1a1a2e"/>
 
 <br>
 
@@ -120,9 +113,23 @@ I take manual, slow processes and wire intelligence into them. My core focus lie
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" /> Impact & Activity</h2>
 </div>
 
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashimcs&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashimcs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimcs&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=7c3aed&text_color=c9d1d9" width="48%" />
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashimcs&theme=tokyo-night&bg_color=1a1a2e&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
