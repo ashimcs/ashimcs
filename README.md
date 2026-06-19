@@ -21,40 +21,57 @@
 
 <br>
 
-<table width="100%" border="0" style="border: none;">
-<tr>
-<td width="55%" valign="top" style="border: none;">
+<div align="center">
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="30" height="30" /> About Me</h2>
 
-I take manual, slow processes and wire intelligence into them. My core focus lies at the intersection of **Mobile Development** and **Artificial Intelligence**—building sleek interfaces on the glass while running powerful models under the hood.
-
-> **Core Loop:** `Flutter (Client)` → `Django REST (Backend)` → `PostgreSQL/NoSQL (Data)` → `Gemini / LLaMA / Groq (Intelligence)`
-
-</td>
-<td width="45%" valign="top" align="center" style="border: none;">
-
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> The Arsenal</h2>
+<p align="center" style="max-width: 800px;">
+I am a passionate <b>Full-Stack Engineer</b> specializing in designing and deploying intelligent, scalable software solutions. By bridging the gap between Mobile Development and Artificial Intelligence, I architect robust applications that integrate advanced machine learning pipelines with intuitive, high-performance user interfaces. My expertise spans the entire development lifecycle, from conceptualizing complex backend architectures to delivering seamless frontend experiences.
+</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/Flutter-7c3aed?style=flat-square&color=1a1a2e" />
-<img src="https://img.shields.io/badge/Django_REST-7c3aed?style=flat-square&color=1a1a2e" />
-<img src="https://img.shields.io/badge/LLMs-7c3aed?style=flat-square&color=1a1a2e" />
-<br>
-<img src="https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square&color=1a1a2e" />
-<img src="https://img.shields.io/badge/Python-7c3aed?style=flat-square&color=1a1a2e" />
-<img src="https://img.shields.io/badge/PostgreSQL-7c3aed?style=flat-square&color=1a1a2e" />
-<br>
-<img src="https://img.shields.io/badge/Groq_API-7c3aed?style=flat-square&color=1a1a2e" />
-<img src="https://img.shields.io/badge/Gemini_Vision-7c3aed?style=flat-square&color=1a1a2e" />
-<img src="https://img.shields.io/badge/face--api.js-7c3aed?style=flat-square&color=1a1a2e" />
-
-</td>
-</tr>
-</table>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Technical Arsenal</h2>
 
 <br>
+
+<b>📱 Frontend / Mobile</b><br>
+<img src="https://img.shields.io/badge/Flutter-0ea5e9?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0ea5e9?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5_&_CSS3-0ea5e9?style=flat-square&logo=html5&logoColor=white" />
+
+<br><br>
+
+<b>⚙️ Backend</b><br>
+<img src="https://img.shields.io/badge/Python-10b981?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-10b981?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Django_REST-10b981?style=flat-square&logo=django&logoColor=white" />
+
+<br><br>
+
+<b>🗄️ Database</b><br>
+<img src="https://img.shields.io/badge/PostgreSQL-f59e0b?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-f59e0b?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-f59e0b?style=flat-square&logo=mysql&logoColor=white" />
+
+<br><br>
+
+<b>🧠 AI Integrations</b><br>
+<img src="https://img.shields.io/badge/LLaMA_3-8b5cf6?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_Vision-8b5cf6?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq_NLP-8b5cf6?style=flat-square&logo=thunderbird&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer_Vision-8b5cf6?style=flat-square&logo=opencv&logoColor=white" />
+
+<br><br>
+
+<b>🔌 APIs & Tools</b><br>
+<img src="https://img.shields.io/badge/RESTful_APIs-ef4444?style=flat-square&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/face--api.js-ef4444?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Git_&_GitHub-ef4444?style=flat-square&logo=github&logoColor=white" />
+
+</div>
+
+<br><hr style="border-top: 1px solid #1a1a2e;"><br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Featured Engineering
 
