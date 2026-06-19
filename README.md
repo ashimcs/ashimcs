@@ -230,4 +230,3 @@ Scores resumes against job listings via Groq NLP, then plots a personalized care
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1410,50:2b2018,100:1a1410&height=100&section=footer&animation=fadeIn"/>
 
 <sub>— last updated 2026, Kerala —</sub>
-
