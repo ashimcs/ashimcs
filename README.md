@@ -8,15 +8,9 @@
 
 <br/>
 
-<table width="100%">
-<tr><td>
-
 ```
 DOC ── IDENTITY_SCHEMATIC.SYS                          ● STATUS: AVAILABLE
 ```
-
-</td></tr>
-</table>
 
 <div align="center">
 
@@ -35,8 +29,9 @@ DOC ── IDENTITY_SCHEMATIC.SYS                          ● STATUS: AVAILABLE
 
 <br/>
 
-| `07` SYSTEMS SHIPPED | `05` AI MODELS WIRED | `04` LANGUAGES SPOKEN | `∞` COFFEE CONSUMED |
+| SYSTEMS SHIPPED | AI MODELS WIRED | LANGUAGES SPOKEN | COFFEE CONSUMED |
 |:---:|:---:|:---:|:---:|
+| **07** | **05** | **04** | **∞** |
 
 ---
 
@@ -99,63 +94,52 @@ LAYER 04 ── AI / ML INTEGRATION
 
 **Six systems, shipped**
 
-<table>
-<tr><td width="60"><code>P-01</code></td><td>
-
-**Sentinel AI** — *Autonomous Disaster Intelligence Ecosystem*
-`⚠ FLAGSHIP — MCA FINAL YEAR`
+**`P-01`** &nbsp;·&nbsp; **Sentinel AI** — *Autonomous Disaster Intelligence Ecosystem*
+&nbsp;&nbsp;&nbsp;&nbsp;`⚠ FLAGSHIP — MCA FINAL YEAR`
 
 A decentralized mobile platform that forms star-topology BLE/Wi-Fi mesh networks via Google Nearby Connections — keeping devices talking when internet infrastructure goes down. LLaMA 3 Vision runs on-device for situational intelligence in zero-connectivity zones.
 
 `Flutter` `Django REST` `LLaMA 3 Vision` `Nearby Connections API` `SQLite` `MySQL`
 
-</td></tr>
-<tr><td><code>P-02</code></td><td>
+<br/>
 
-**Smart Voyage** — *AI-Powered Autonomous Travel Planner*
+**`P-02`** &nbsp;·&nbsp; **Smart Voyage** — *AI-Powered Autonomous Travel Planner*
 
 Generates multi-day travel itineraries via Gemini Vision + Groq API, rendered asynchronously across a cross-platform Flutter shell. JWT-secured endpoints with a structured OTP verification matrix protect every session.
 
 `Flutter` `Django REST` `PostgreSQL` `Gemini Vision` `Groq API`
 
-</td></tr>
-<tr><td><code>P-03</code></td><td>
+<br/>
 
-**MindSpace** — *Computer Vision Emotional Tracking Platform*
+**`P-03`** &nbsp;·&nbsp; **MindSpace** — *Computer Vision Emotional Tracking Platform*
 
 Browser-based biometric workflow mapping live webcam landmarks to emotional-state metrics via face-api.js, with historical analytics surfaced through a Django + Chart.js dashboard.
 
 `face-api.js` `Django` `MongoDB` `Chart.js`
 
-</td></tr>
-<tr><td><code>P-04</code></td><td>
+<br/>
 
-**VoxMark AI** — *Cross-Platform Content Generation Suite*
+**`P-04`** &nbsp;·&nbsp; **VoxMark AI** — *Cross-Platform Content Generation Suite*
 
 A decoupled mobile app built around an interactive drag-and-drop canvas, with backend image rendering through the Google GenAI SDK and Pillow. Presented data-flow architecture directly to client stakeholders.
 
 `Flutter` `Django REST` `Google GenAI SDK` `Pillow` `MySQL`
 
-</td></tr>
-<tr><td><code>P-05</code></td><td>
+<br/>
 
-**AI Career Guidance Suite** — *NLP-Powered Job Matching Engine*
+**`P-05`** &nbsp;·&nbsp; **AI Career Guidance Suite** — *NLP-Powered Job Matching Engine*
 
 Parses user profiles against raw job listings via Groq's NLP engine, scoring exact keyword overlap and rendering localized career roadmaps as live Chart.js visualizations.
 
 `Python` `Django` `Groq NLP API` `MySQL` `Chart.js`
 
-</td></tr>
-<tr><td><code>P-06</code></td><td>
+<br/>
 
-**CarCare SOS** — *On-Demand Vehicle Assistance Dispatch*
+**`P-06`** &nbsp;·&nbsp; **CarCare SOS** — *On-Demand Vehicle Assistance Dispatch*
 
 Routes emergency SOS calls to the nearest available technician via Leaflet.js maps, while logging every transaction and dispatching SMTP alerts in real time.
 
 `Django` `Leaflet.js` `MySQL` `SMTP` `Glassmorphism CSS`
-
-</td></tr>
-</table>
 
 ---
 
