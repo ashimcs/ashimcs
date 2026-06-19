@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1410,50:14241b,100:0e1a14&height=210&section=header&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=46&duration=3500&pause=2000&color=5DFFB0&center=true&vCenter=true&width=560&height=70&lines=ASHIM+C+S" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1410,50:14241b,100:0e1a14&height=240&section=header&text=ASHIM%20C%20S&fontSize=64&fontColor=5dffb0&fontAlignY=38&animation=twinkling&desc=SYSTEM%20SCHEMATIC%20%E2%80%94%20FULL-STACK%20ENGINEER%20%2F%20AI%20INTEGRATION&descAlignY=58&descSize=15&descColor=a8c2b3"/>
 
 <sub><code>REV 2026.06 — BUILD/STABLE</code> &nbsp;·&nbsp; <code>SHEET 01 OF 01</code> &nbsp;·&nbsp; <code>N 08°31' KERALA / IND</code></sub>
 
