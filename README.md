@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1410,50:14241b,100:0e1a14&height=240&section=header&text=ASHIM%20C%20S&fontSize=64&fontColor=5dffb0&fontAlignY=38&animation=twinkling&desc=SYSTEM%20SCHEMATIC%20%E2%80%94%20FULL-STACK%20ENGINEER%20%2F%20AI%20INTEGRATION&descAlignY=58&descSize=15&descColor=a8c2b3"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1410,50:2b2018,100:1a1410&height=230&section=header&text=Ashim%20C%20S&fontSize=56&fontColor=ffb454&fontAlignY=42&animation=fadeIn&desc=field%20notes%20of%20a%20full-stack%20%26%20AI%20engineer&descAlignY=62&descSize=16&descColor=d9c4a8"/>
 
-<sub><code>REV 2026.06 — BUILD/STABLE</code> &nbsp;·&nbsp; <code>SHEET 01 OF 01</code> &nbsp;·&nbsp; <code>N 08°31' KERALA / IND</code></sub>
+<sub>📍 Kerala, India &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 MCA @ KTU, 2024–26 &nbsp;&nbsp;|&nbsp;&nbsp; ✦ open to work</sub>
 
 </div>
 
@@ -10,201 +10,224 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/●_STATUS-AVAILABLE-5dffb0?style=flat-square&labelColor=0b1410" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=3000&pause=1000&color=FFB454&center=true&vCenter=true&width=600&lines=building+with+Flutter+%2B+Django+%2B+LLMs;currently%3A+wiring+AI+into+mobile+apps;next+page%3A+scroll+down...)](https://github.com/ashimcs)
+
+<a href="mailto:ashimcs23@gmail.com"><img src="https://img.shields.io/badge/✉_write_to_me-2b2018?style=for-the-badge&logoColor=FFB454&labelColor=2b2018&color=ffb454"/></a>
+<a href="https://www.linkedin.com/in/ashim-cs-4b7569397"><img src="https://img.shields.io/badge/in_LinkedIn-2b2018?style=for-the-badge&logo=linkedin&logoColor=FFB454&labelColor=2b2018&color=1a1410"/></a>
+<a href="https://github.com/ashimcs"><img src="https://img.shields.io/badge/⌥_GitHub-2b2018?style=for-the-badge&logo=github&logoColor=FFB454&labelColor=2b2018&color=1a1410"/></a>
+
+</div>
+
 &nbsp;
-<sub><code>DOC — IDENTITY_SCHEMATIC.SYS</code></sub>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=5DFFB0&center=true&vCenter=true&width=620&lines=role%3A+full-stack-engineer+--primary;role%3A+flutter-developer+--mobile;role%3A+django-rest-architect+--backend;role%3A+ai-integration-specialist+--llm;role%3A+computer-vision-engineer+--cv)](https://github.com/ashimcs)
-
-**A full-stack engineer who builds AI-native systems —**
-**from mobile mesh networks to LLM-backed pipelines.**
-
-<a href="mailto:ashimcs23@gmail.com"><img src="https://img.shields.io/badge/INITIATE%20CONTACT-5DFFB0?style=for-the-badge&logoColor=0b1410&labelColor=0b1410&color=5dffb0"/></a>
-<a href="https://github.com/ashimcs"><img src="https://img.shields.io/badge/SOURCE%20REPOS-0b1410?style=for-the-badge&logo=github&logoColor=5DFFB0&labelColor=0b1410&color=0e1a14"/></a>
-<a href="https://www.linkedin.com/in/ashim-cs-4b7569397"><img src="https://img.shields.io/badge/LINKEDIN-0b1410?style=for-the-badge&logo=linkedin&logoColor=5DFFB0&labelColor=0b1410&color=0e1a14"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=ashimcs&style=flat-square&color=5dffb0&label=VIEWS"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1410,50:ffb454,100:1a1410&height=2&section=header" width="100%"/>
 
 <br/>
 
-| SYSTEMS SHIPPED | AI MODELS WIRED | LANGUAGES SPOKEN | COFFEE CONSUMED |
-|:---:|:---:|:---:|:---:|
-| **07** | **05** | **04** | **∞** |
+## 📌 entry 01 — who's writing this
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
+> *Kept this notebook to track what I'm building. Mostly mobile apps and AI plumbing — Flutter on the glass, Django underneath, LLMs doing the thinking in between.*
 
-### `01 /` PROFILE
+I'm a full-stack engineer based in Kerala, currently finishing an **MCA at APJ Abdul Kalam Technological University**. My freelance work spans real estate platforms, travel planning, emergency dispatch, and AI-powered career tools — the common thread is always the same: take something manual and slow, wire intelligence into it, make it fast.
 
-**The engineer behind the schematic**
+**core loop:** `Flutter (mobile)` → `Django REST (backend)` → `Postgres/Mongo/MySQL (storage)` → `Gemini / Groq / LLaMA (the smart part)`
 
-> **FIG. 1 — CORE SPECS**
+<table>
+<tr>
+<td width="25%" align="center">
 
-| | |
-|---|---|
-| `EDUCATION` | MCA, APJ Abdul Kalam Technological University · 2024–2026 |
-| `PRIOR DEG.` | BCA, MG University Kottayam · 2020–2023 |
-| `LOCATION` | Kerala, India |
-| `LANGUAGES` | EN · HI · ML · TA |
-| `STATUS` | Freelance + Full-time open |
+**07**
+<sub>things shipped</sub>
 
-I work across the full delivery cycle — architecture, API design, database modeling, and client-facing demos. Most of my recent builds sit at the seam between **mobile engineering and applied AI**: wiring LLMs, computer vision models, and NLP pipelines into systems people actually use.
+</td>
+<td width="25%" align="center">
 
-My core stack is **Flutter on the front, Django REST on the back**. I've shipped production integrations with Google Gemini Vision, Groq, LLaMA 3 Vision, and the Google GenAI SDK — alongside foundational work in JWT auth, OTP flows, and multi-tenant database sync.
+**05**
+<sub>AI models wired in</sub>
 
-My MCA thesis project, **Sentinel AI**, pushes furthest into systems territory: a mesh-networked, offline-capable disaster response app that doesn't depend on internet infrastructure to function.
+</td>
+<td width="25%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
+**04**
+<sub>languages spoken</sub>
 
-### `02 /` ARCHITECTURE
+</td>
+<td width="25%" align="center">
 
-**The stack, wired end to end**
+**2026**
+<sub>MCA graduation</sub>
 
-```
-LAYER 01 ── MOBILE & FRONTEND
-            Flutter · Dart · JavaScript · HTML5 · CSS3 · Bootstrap 5 · Android SDK
+</td>
+</tr>
+</table>
 
-LAYER 02 ── BACKEND & APIS
-            Python · Django · Django REST · JWT Auth · OTP Verify · SMTP
-
-LAYER 03 ── DATA PERSISTENCE
-            PostgreSQL · MySQL · MongoDB · SQLite
-
-LAYER 04 ── AI / ML INTEGRATION
-            Gemini Vision · Groq NLP · LLaMA 3 Vision · Google GenAI SDK
-            face-api.js · Chart.js · Pillow
-```
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-0e1a14?style=flat-square&logo=flutter&logoColor=5dffb0)
-![Django](https://img.shields.io/badge/Django-0e1a14?style=flat-square&logo=django&logoColor=5dffb0)
-![Python](https://img.shields.io/badge/Python-0e1a14?style=flat-square&logo=python&logoColor=5dffb0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0e1a14?style=flat-square&logo=postgresql&logoColor=5dffb0)
-![Gemini](https://img.shields.io/badge/Gemini_Vision-0e1a14?style=flat-square&logo=google&logoColor=5dffb0)
-![Groq](https://img.shields.io/badge/Groq-0e1a14?style=flat-square&logo=thunderbird&logoColor=5dffb0)
-![Meta](https://img.shields.io/badge/LLaMA_3_Vision-0e1a14?style=flat-square&logo=meta&logoColor=5dffb0)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
-
-### `03 /` DEPLOYMENTS
-
-**Six systems, shipped**
-
-**`P-01`** &nbsp;·&nbsp; **Sentinel AI** — *Autonomous Disaster Intelligence Ecosystem*
-
-![Flagship](https://img.shields.io/badge/⚠_FLAGSHIP-MCA_FINAL_YEAR-ff8a5c?style=flat-square&labelColor=0b1410)
-
-A decentralized mobile platform that forms star-topology BLE/Wi-Fi mesh networks via Google Nearby Connections — keeping devices talking when internet infrastructure goes down. LLaMA 3 Vision runs on-device for situational intelligence in zero-connectivity zones.
-
-`Flutter` `Django REST` `LLaMA 3 Vision` `Nearby Connections API` `SQLite` `MySQL`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1410,50:ffb454,100:1a1410&height=2&section=header" width="100%"/>
 
 <br/>
 
-**`P-02`** &nbsp;·&nbsp; **Smart Voyage** — *AI-Powered Autonomous Travel Planner*
+## 🧰 entry 02 — the toolbox
 
-Generates multi-day travel itineraries via Gemini Vision + Groq API, rendered asynchronously across a cross-platform Flutter shell. JWT-secured endpoints with a structured OTP verification matrix protect every session.
+<table width="100%">
+<tr><td width="50%" valign="top">
 
-`Flutter` `Django REST` `PostgreSQL` `Gemini Vision` `Groq API`
+**on the glass** <sub>(mobile + frontend)</sub>
+<br/>
+
+![Flutter](https://img.shields.io/badge/Flutter-1a1410?style=flat-square&logo=flutter&logoColor=ffb454)
+![Dart](https://img.shields.io/badge/Dart-1a1410?style=flat-square&logo=dart&logoColor=ffb454)
+![JS](https://img.shields.io/badge/JavaScript-1a1410?style=flat-square&logo=javascript&logoColor=ffb454)
+![HTML](https://img.shields.io/badge/HTML5-1a1410?style=flat-square&logo=html5&logoColor=ffb454)
+![CSS](https://img.shields.io/badge/CSS3-1a1410?style=flat-square&logo=css3&logoColor=ffb454)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-1a1410?style=flat-square&logo=bootstrap&logoColor=ffb454)
+
+</td><td width="50%" valign="top">
+
+**under the hood** <sub>(backend + auth)</sub>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-1a1410?style=flat-square&logo=python&logoColor=ffb454)
+![Django](https://img.shields.io/badge/Django-1a1410?style=flat-square&logo=django&logoColor=ffb454)
+![DRF](https://img.shields.io/badge/Django_REST-1a1410?style=flat-square&logo=django&logoColor=ffb454)
+![JWT](https://img.shields.io/badge/JWT_Auth-1a1410?style=flat-square&logo=jsonwebtokens&logoColor=ffb454)
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**where data lives**
+<br/>
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-1a1410?style=flat-square&logo=postgresql&logoColor=ffb454)
+![MySQL](https://img.shields.io/badge/MySQL-1a1410?style=flat-square&logo=mysql&logoColor=ffb454)
+![Mongo](https://img.shields.io/badge/MongoDB-1a1410?style=flat-square&logo=mongodb&logoColor=ffb454)
+![SQLite](https://img.shields.io/badge/SQLite-1a1410?style=flat-square&logo=sqlite&logoColor=ffb454)
+
+</td><td width="50%" valign="top">
+
+**the smart part** <sub>(AI / ML)</sub>
+<br/>
+
+![Gemini](https://img.shields.io/badge/Gemini_Vision-1a1410?style=flat-square&logo=google&logoColor=ffb454)
+![Groq](https://img.shields.io/badge/Groq_NLP-1a1410?style=flat-square&logo=thunderbird&logoColor=ffb454)
+![Llama](https://img.shields.io/badge/LLaMA_3_Vision-1a1410?style=flat-square&logo=meta&logoColor=ffb454)
+![FaceAPI](https://img.shields.io/badge/face--api.js-1a1410?style=flat-square&logo=javascript&logoColor=ffb454)
+
+</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1410,50:ffb454,100:1a1410&height=2&section=header" width="100%"/>
 
 <br/>
 
-**`P-03`** &nbsp;·&nbsp; **MindSpace** — *Computer Vision Emotional Tracking Platform*
+## 🗂️ entry 03 — what I've built
 
-Browser-based biometric workflow mapping live webcam landmarks to emotional-state metrics via face-api.js, with historical analytics surfaced through a Django + Chart.js dashboard.
+<br/>
+
+> ★ **starred page — this is the one I'd show first**
+
+### Sentinel AI
+**Autonomous Disaster Intelligence Ecosystem** · *MCA Final Year Project*
+
+When the internet goes down in a disaster zone, this app keeps phones talking to each other anyway. Built a star-topology mesh over BLE + Wi-Fi Direct using Google Nearby Connections — no towers, no signal, no problem. LLaMA 3 Vision runs locally on-device to make sense of what it sees.
+
+`Flutter` `Django REST` `LLaMA 3 Vision` `Google Nearby API` `SQLite` `MySQL`
+
+<br/>
+
+<table width="100%">
+<tr><td width="50%" valign="top">
+
+**✈️ Smart Voyage**
+<br/>*AI travel planner*
+
+Plans multi-day trips using Gemini Vision + Groq. JWT + OTP keep sessions locked down while the UI renders itineraries asynchronously.
+
+`Flutter` `Django REST` `PostgreSQL` `Gemini Vision` `Groq`
+
+</td><td width="50%" valign="top">
+
+**🧠 MindSpace**
+<br/>*emotion-tracking via webcam*
+
+Reads facial landmarks live in-browser with face-api.js, plots emotional states over time on a Django + Chart.js dashboard.
 
 `face-api.js` `Django` `MongoDB` `Chart.js`
 
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**🎨 VoxMark AI**
+<br/>*drag-and-drop content suite*
+
+A canvas-based content generator backed by Google's GenAI SDK and Pillow for image rendering. Presented the architecture directly to clients.
+
+`Flutter` `Django REST` `Google GenAI SDK` `Pillow`
+
+</td><td width="50%" valign="top">
+
+**💼 Career Guidance Suite**
+<br/>*NLP job matching*
+
+Scores resumes against job listings via Groq NLP, then plots a personalized career roadmap on Chart.js.
+
+`Python` `Django` `Groq NLP` `Chart.js`
+
+</td></tr>
+</table>
+
+**🚗 CarCare SOS** — *emergency dispatch matrix.* Routes stranded drivers to the nearest technician via Leaflet.js maps, logs every transaction, and fires off SMTP alerts in real time. &nbsp; `Django` `Leaflet.js` `MySQL` `SMTP`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1410,50:ffb454,100:1a1410&height=2&section=header" width="100%"/>
+
 <br/>
 
-**`P-04`** &nbsp;·&nbsp; **VoxMark AI** — *Cross-Platform Content Generation Suite*
+## 🏅 entry 04 — paperwork & receipts
 
-A decoupled mobile app built around an interactive drag-and-drop canvas, with backend image rendering through the Google GenAI SDK and Pillow. Presented data-flow architecture directly to client stakeholders.
-
-`Flutter` `Django REST` `Google GenAI SDK` `Pillow` `MySQL`
-
-<br/>
-
-**`P-05`** &nbsp;·&nbsp; **AI Career Guidance Suite** — *NLP-Powered Job Matching Engine*
-
-Parses user profiles against raw job listings via Groq's NLP engine, scoring exact keyword overlap and rendering localized career roadmaps as live Chart.js visualizations.
-
-`Python` `Django` `Groq NLP API` `MySQL` `Chart.js`
-
-<br/>
-
-**`P-06`** &nbsp;·&nbsp; **CarCare SOS** — *On-Demand Vehicle Assistance Dispatch*
-
-Routes emergency SOS calls to the nearest available technician via Leaflet.js maps, while logging every transaction and dispatching SMTP alerts in real time.
-
-`Django` `Leaflet.js` `MySQL` `SMTP` `Glassmorphism CSS`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
-
-### `04 /` VERIFICATION
-
-**Credentials on record**
-
-| | Certificate | Issuer |
+| stamp | certificate | issued by |
 |:---:|---|---|
-| ✓ | Generative AI Advanced Fine-Tuning for LLMs | `IBM · COURSERA` |
-| ✓ | Generative AI & LLMs: Architecture and Data Preparation | `IBM · COURSERA` |
-| ✓ | Introduction to Artificial Intelligence | `IBM · COURSERA` |
-| ✓ | Accelerate Your Job Search with AI | `GOOGLE · COURSERA` |
-| ✓ | Flutter & Mobile App Architectures — 6 Month Intensive | `SANS BORNE WEB SOLUTIONS` |
+| ✔ | Generative AI Advanced Fine-Tuning for LLMs | IBM via Coursera |
+| ✔ | Generative AI & LLMs: Architecture and Data Preparation | IBM via Coursera |
+| ✔ | Introduction to Artificial Intelligence | IBM via Coursera |
+| ✔ | Accelerate Your Job Search with AI | Google via Coursera |
+| ✔ | Flutter & Mobile App Architectures — 6mo Intensive | Sans Borne Web Solutions |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1410,50:ffb454,100:1a1410&height=2&section=header" width="100%"/>
 
-### `05 /` CONNECTION
+<br/>
 
-**Let's compile something**
-
-```bash
-$ whoami
-> Ashim C S — Full-Stack Engineer, Kerala IN
-
-$ contact --email
-> ashimcs23@gmail.com
-
-$ contact --phone
-> +91 7025096864
-
-$ contact --linkedin
-> linkedin.com/in/ashim-cs-4b7569397
-
-$ contact --github
-> github.com/ashimcs
-
-$ status
-> Open to freelance contracts & full-time roles. Reply <24h.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
+## 📊 entry 05 — the numbers
 
 <div align="center">
 
-### GitHub Matrix
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashimcs&show_icons=true&theme=gotham&hide_border=true&bg_color=1a1410&title_color=ffb454&icon_color=ffb454&text_color=d9c4a8&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimcs&layout=compact&theme=gotham&hide_border=true&bg_color=1a1410&title_color=ffb454&text_color=d9c4a8"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashimcs&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0b1410&title_color=5dffb0&icon_color=5dffb0&text_color=7d9485&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimcs&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0b1410&title_color=5dffb0&text_color=7d9485"/>
-
-<img src="https://streak-stats.demolab.com?user=ashimcs&theme=dark&hide_border=true&background=0b1410&ring=5dffb0&fire=ff8a5c&currStreakLabel=5dffb0&sideLabels=7d9485&dates=7d9485&currStreakNum=5dffb0&sideNums=5dffb0" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=ashimcs&theme=gotham&hide_border=true&background=1a1410&ring=ffb454&fire=ffb454&currStreakLabel=ffb454&sideLabels=d9c4a8&dates=d9c4a8&currStreakNum=ffb454&sideNums=ffb454" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1410,50:ffb454,100:1a1410&height=2&section=header" width="100%"/>
+
+<br/>
+
+## ✎ entry 06 — get in touch
 
 <div align="center">
 
-<sub>BUILT BY <b>ASHIM C S</b> — KERALA, INDIA — 2026 — END OF SHEET</sub>
+| | |
+|---|---|
+| ✉ Email | [ashimcs23@gmail.com](mailto:ashimcs23@gmail.com) |
+| 📞 Phone | +91 7025096864 |
+| in LinkedIn | [ashim-cs-4b7569397](https://www.linkedin.com/in/ashim-cs-4b7569397) |
+| ⌥ GitHub | [github.com/ashimcs](https://github.com/ashimcs) |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1a14,50:14241b,100:0b1410&height=110&section=footer&animation=twinkling"/>
+**Open to freelance contracts, full-time roles, and collabs.**
+*Usually reply within a day.*
 
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=ashimcs&style=flat-square&color=ffb454&label=people%20who%20flipped%20through%20this"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1410,50:2b2018,100:1a1410&height=100&section=footer&animation=fadeIn"/>
+
+<sub>— last updated 2026, Kerala —</sub>
+
