@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0b1410,100:0e1a14&height=200&section=header&text=ASHIM%20C%20S&fontSize=58&fontColor=5dffb0&fontAlignY=42&desc=SYSTEM%20SCHEMATIC%20%E2%80%94%20FULL-STACK%20ENGINEER%20%2F%20AI%20INTEGRATION&descColor=7d9485&descAlignY=62&descSize=14&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1410,50:14241b,100:0e1a14&height=210&section=header&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=46&duration=3500&pause=2000&color=5DFFB0&center=true&vCenter=true&width=560&height=70&lines=ASHIM+C+S" />
 
 <sub><code>REV 2026.06 — BUILD/STABLE</code> &nbsp;·&nbsp; <code>SHEET 01 OF 01</code> &nbsp;·&nbsp; <code>N 08°31' KERALA / IND</code></sub>
 
@@ -8,9 +10,13 @@
 
 <br/>
 
-```
-DOC ── IDENTITY_SCHEMATIC.SYS                          ● STATUS: AVAILABLE
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/●_STATUS-AVAILABLE-5dffb0?style=flat-square&labelColor=0b1410" />
+&nbsp;
+<sub><code>DOC — IDENTITY_SCHEMATIC.SYS</code></sub>
+
+</div>
 
 <div align="center">
 
@@ -33,7 +39,7 @@ DOC ── IDENTITY_SCHEMATIC.SYS                          ● STATUS: AVAILABLE
 |:---:|:---:|:---:|:---:|
 | **07** | **05** | **04** | **∞** |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
 
 ### `01 /` PROFILE
 
@@ -55,7 +61,7 @@ My core stack is **Flutter on the front, Django REST on the back**. I've shipped
 
 My MCA thesis project, **Sentinel AI**, pushes furthest into systems territory: a mesh-networked, offline-capable disaster response app that doesn't depend on internet infrastructure to function.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
 
 ### `02 /` ARCHITECTURE
 
@@ -88,14 +94,15 @@ LAYER 04 ── AI / ML INTEGRATION
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
 
 ### `03 /` DEPLOYMENTS
 
 **Six systems, shipped**
 
 **`P-01`** &nbsp;·&nbsp; **Sentinel AI** — *Autonomous Disaster Intelligence Ecosystem*
-&nbsp;&nbsp;&nbsp;&nbsp;`⚠ FLAGSHIP — MCA FINAL YEAR`
+
+![Flagship](https://img.shields.io/badge/⚠_FLAGSHIP-MCA_FINAL_YEAR-ff8a5c?style=flat-square&labelColor=0b1410)
 
 A decentralized mobile platform that forms star-topology BLE/Wi-Fi mesh networks via Google Nearby Connections — keeping devices talking when internet infrastructure goes down. LLaMA 3 Vision runs on-device for situational intelligence in zero-connectivity zones.
 
@@ -141,7 +148,7 @@ Routes emergency SOS calls to the nearest available technician via Leaflet.js ma
 
 `Django` `Leaflet.js` `MySQL` `SMTP` `Glassmorphism CSS`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
 
 ### `04 /` VERIFICATION
 
@@ -155,7 +162,7 @@ Routes emergency SOS calls to the nearest available technician via Leaflet.js ma
 | ✓ | Accelerate Your Job Search with AI | `GOOGLE · COURSERA` |
 | ✓ | Flutter & Mobile App Architectures — 6 Month Intensive | `SANS BORNE WEB SOLUTIONS` |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
 
 ### `05 /` CONNECTION
 
@@ -181,7 +188,7 @@ $ status
 > Open to freelance contracts & full-time roles. Reply <24h.
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
 
 <div align="center">
 
@@ -194,12 +201,12 @@ $ status
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1a14,50:5dffb0,100:0e1a14&height=2&section=header" width="100%"/>
 
 <div align="center">
 
 <sub>BUILT BY <b>ASHIM C S</b> — KERALA, INDIA — 2026 — END OF SHEET</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0e1a14,100:0b1410&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1a14,50:14241b,100:0b1410&height=110&section=footer&animation=twinkling"/>
 
 </div>
