@@ -45,7 +45,10 @@
 
 ## ⚡ About Me
 
-<img align="right" alt="coding gif" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<video align="right" width="320" autoplay loop muted playsinline>
+  <source src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" type="video/mp4">
+  <img align="right" alt="coding gif" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</video>
 
 ```python
 class AshimCS:
@@ -54,7 +57,6 @@ class AshimCS:
         self.education = "MCA @ APJ Abdul Kalam Technological University"
         self.focus = ["Flutter", "Django REST", "LLM Integration", "Computer Vision"]
         self.languages = ["English", "Hindi", "Malayalam", "Tamil"]
-        self.current_project = "Sentinel AI — Offline Disaster Mesh Network"
 
     def currently_exploring(self):
         return "Edge-AI deployment with LLaMA-3-Vision on zero-connectivity devices"
@@ -63,12 +65,12 @@ class AshimCS:
         return "I make low-connectivity environments behave like they're online."
 ```
 
-- 🔭 Building **Sentinel AI** — an offline BLE/Wi-Fi mesh disaster-response app powered by on-device LLaMA-3-Vision
-- 🌐 Specialize in turning ambiguous client requirements into production-ready, cross-platform systems
-- 🤖 Deep hands-on experience with Gemini Vision, Groq NLP, and Generative AI SDKs in real shipped products
-- 🎓 MCA, thesis on **Decentralized Mesh Networks & Localized Edge-AI Vision**
-- 💬 Fluent across 4 languages — comfortable leading client demos and cross-functional teams
-- ⚙️ Currently sharpening: distributed systems design & resilient low-connectivity architectures
+- 🚀 **What I Do**: Architect and build end-to-end mobile and full-stack solutions, specializing in on-device AI/ML (LLMs & Computer Vision) and cross-platform Flutter systems.
+- 🛠️ **Completed Projects**: Shipped robust applications including **Sentinel AI** (offline mesh crisis response), **Smart Voyage** (autonomous planner), **VoxMark AI**, and **MindSpace**.
+- 🌐 **Specialize in**: Translating ambiguous requirements into production-ready architectures, prioritizing offline-first capabilities and seamless user experiences.
+- 🤖 **AI Integration**: Deep hands-on experience integrating on-device LLMs (LLaMA-3-Vision), cloud models (Gemini Vision, Groq), and computer vision pipelines (OpenCV, face-api.js).
+- 🎓 **Academic Background**: Master of Computer Applications (MCA) with a research focus on decentralized mesh networks and localized edge-AI vision.
+- 💬 **Leadership & Communication**: Fluent in 4 languages, experienced in driving technical discussions, client demos, and cross-functional collaboration.
 
 <br clear="right"/>
 
