@@ -39,13 +39,11 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake contribution graph"/>
+<img src="https://raw.githubusercontent.com/ashimcs/ashimcs/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake contribution graph"/>
 
 <br/>
 
 ## ⚡ About Me
-
-<img align="right" alt="coding gif" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```python
 class AshimCS:
@@ -68,8 +66,6 @@ class AshimCS:
 - 🤖 **AI Integration**: Deep hands-on experience integrating on-device LLMs (LLaMA-3-Vision), cloud models (Gemini Vision, Groq), and computer vision pipelines (OpenCV, face-api.js).
 - 🎓 **Academic Background**: Master of Computer Applications (MCA) with a research focus on decentralized mesh networks and localized edge-AI vision.
 - 💬 **Leadership & Communication**: Fluent in 4 languages, experienced in driving technical discussions, client demos, and cross-functional collaboration.
-
-<br clear="right"/>
 
 ## 🧠 Tech Arsenal
 
