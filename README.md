@@ -1,251 +1,256 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8a2be2,100:00fff2&height=220&section=header&text=ASHIM%20C%20S&fontSize=60&fontColor=00fff2&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Engineer%20%7C%20LLM%20%2B%20Computer%20Vision%20Integration&descAlignY=55&descSize=18&descColor=ff00c8" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00FFF2&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Building+offline-first+AI+%26+mobile+systems;Flutter+%E2%80%A2+Django+REST+%E2%80%A2+LLM+%2B+CV+pipelines;MCA+%40+KTU+%7C+Freelance+Tech+Consultant" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f0ff,100:ff00ff&height=220&section=header&text=ASHIM%20C%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Engineer%20|%20LLM%20%2B%20Computer%20Vision%20Integration&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFF2?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/ashimcs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF00C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashim-cs-4b7569397)
-[![Gmail](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimcs23@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ashimcs&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/ashimcs)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=750&height=60&lines=Building+offline-first+%26+AI-native+mobile+systems;Flutter+%E2%80%A2+Django+REST+%E2%80%A2+LLM+%2F+CV+Pipelines;Turning+chaotic+specs+into+shipped%2C+working+code;MCA+%40+KTU+%E2%80%A2+Kerala%2C+India" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ashimcs&label=Profile%20Views&color=00f0ff&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/ashimcs?label=Followers&style=for-the-badge&color=ff00ff&logo=github" alt="followers"/>
+<img src="https://img.shields.io/badge/Location-Kerala%2C%20India-39ff14?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<br/>
 
-<!--
-  ⬆️ Snake animation: this renders automatically ONCE you add the GitHub Action
-  below to a public repo named exactly the same as your username (ashimcs/ashimcs).
-  See the "Snake Setup" section near the bottom of this file for the workflow file.
--->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake contribution graph"/>
 
----
+<br/>
 
-### `>` whoami
+## ⚡ About Me
 
-```yaml
-name: Ashim C S
-role: Full-Stack & Mobile Engineer | LLM & Computer Vision Integration
-education: MCA, APJ Abdul Kalam Technological University (KTU), Kerala
-focus: ["Offline-first mobile systems", "LLM/CV integration", "Django REST APIs", "Cross-platform UX"]
-languages_spoken: ["English", "Hindi", "Malayalam", "Tamil"]
-currently_building: Smart PDS — multi-tenant public distribution tracking platform
-currently_exploring: Edge-AI deployment on constrained mobile hardware
-fun_fact: Led Sentinel AI — an offline BLE/Wi-Fi mesh disaster-response app running LLaMA 3 Vision on-device
+<img align="right" alt="coding gif" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```python
+class AshimCS:
+    def __init__(self):
+        self.role = "Full-Stack & Mobile Engineer"
+        self.education = "MCA @ APJ Abdul Kalam Technological University"
+        self.focus = ["Flutter", "Django REST", "LLM Integration", "Computer Vision"]
+        self.languages = ["English", "Hindi", "Malayalam", "Tamil"]
+        self.current_project = "Sentinel AI — Offline Disaster Mesh Network"
+
+    def currently_exploring(self):
+        return "Edge-AI deployment with LLaMA-3-Vision on zero-connectivity devices"
+
+    def fun_fact(self):
+        return "I make low-connectivity environments behave like they're online."
 ```
 
-I design and ship **production-grade cross-platform systems** — from BLE/Wi-Fi mesh networks running on-device vision models in zero-connectivity disaster zones, to Django REST backends serving real-time travel, real-estate, and public-distribution platforms. I like turning vague requirements into clean, modular, scalable code — and I enjoy explaining how it works just as much as building it.
+- 🔭 Building **Sentinel AI** — an offline BLE/Wi-Fi mesh disaster-response app powered by on-device LLaMA-3-Vision
+- 🌐 Specialize in turning ambiguous client requirements into production-ready, cross-platform systems
+- 🤖 Deep hands-on experience with Gemini Vision, Groq NLP, and Generative AI SDKs in real shipped products
+- 🎓 MCA, thesis on **Decentralized Mesh Networks & Localized Edge-AI Vision**
+- 💬 Fluent across 4 languages — comfortable leading client demos and cross-functional teams
+- ⚙️ Currently sharpening: distributed systems design & resilient low-connectivity architectures
 
----
+<br clear="right"/>
 
-### `>` tech_stack
+## 🧠 Tech Arsenal
 
 <div align="center">
 
 **Mobile & Frontend**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,html,css,js,bootstrap&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,bootstrap&theme=dark" />
 
 **Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,postman&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs&theme=dark" />
 
 **Databases & Ops**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase,git,github&theme=dark" />
 
-**AI / ML / Data Viz**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-&nbsp;
-![Gemini](https://img.shields.io/badge/Gemini_Vision_API-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_NLP-00FFF2?style=flat-square&logo=lightning&logoColor=black)
-![LLaMA](https://img.shields.io/badge/LLaMA_3_Vision-FF00C8?style=flat-square&logo=meta&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
+**AI / ML & Visualization**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/Gemini_Vision-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq_NLP-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/LLaMA--3--Vision-00f0ff?style=for-the-badge&logo=meta&logoColor=black" />
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 
 </div>
 
----
+<br/>
 
-### `>` featured_projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 🛰️ [Sentinel AI](https://github.com/ashimcs/sentinel-ai)
-**MCA Final Year Project — Project Lead**
-Offline-first disaster-response mesh app. BLE/Wi-Fi Direct star-topology networking via Google Nearby Connections, with **on-device LLaMA-3-Vision** for tactical image analysis in zero-connectivity zones. Built a multi-stage SQLite ↔ MySQL sync engine for post-outage reconciliation.
+### 🛰️ [Sentinel AI](https://github.com/ashimcs/sentinel-ai)
+**Offline Disaster Intelligence Mesh — MCA Final Year Project Lead**
 
-`Flutter` `Django REST` `LLaMA-3-Vision` `SQLite` `MySQL`
+Decentralized, offline-first mobile mesh using Google Nearby Connections (BLE + Wi-Fi Direct) with on-device LLaMA-3-Vision for zero-connectivity crisis response.
 
-</td>
-<td width="50%" valign="top">
-
-#### 🧳 [Smart Voyage](https://github.com/ashimcs/smart-voyage)
-**Freelance Consultant**
-AI-powered autonomous travel planner. Generative itinerary pipelines via Gemini Vision + Groq NLP, JWT/OTP-secured auth, and async UI rendering that holds 60 FPS through heavy AI calls — cut manual planning effort by ~40%.
-
-`Flutter` `Django REST` `PostgreSQL` `Gemini Vision`
+`Flutter` `Django REST` `MySQL` `SQLite` `LLaMA-3-Vision`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 🎨 [VoxMark AI](https://github.com/ashimcs/voxmark-ai)
-**Freelance Consultant**
-Cross-platform content-generation suite with a drag-and-drop canvas frontend and Pillow-powered background rendering engine — accelerated client workflow cycles by 50%.
+### ✈️ [Smart Voyage](https://github.com/ashimcs/smart-voyage)
+**AI-Powered Autonomous Travel Planner**
 
-`Flutter` `Django REST` `MySQL` `Pillow`
+Cross-platform itinerary engine with JWT + OTP secure auth, cutting manual planning effort by ~40% via Gemini Vision-driven generation.
 
-</td>
-<td width="50%" valign="top">
-
-#### 🧠 [MindSpace](https://github.com/ashimcs/mindspace)
-**Freelance Consultant**
-Computer-vision emotional tracking platform. Real-time webcam facial-landmark mapping via face-api.js into 7 emotion classes, visualized through live Chart.js analytics dashboards.
-
-`JavaScript` `Django` `MongoDB` `face-api.js`
+`Flutter` `Django REST` `PostgreSQL` `Gemini Vision` `Groq NLP`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### 📋 [Smart PDS](https://github.com/ashimcs/smart-pds) <sub>`2026 - Present`</sub>
-Multi-tenant public distribution tracking platform replacing manual ledgers. Real-time leakage-detection hooks with immutable logging — cut regional supervisor inspection time by ~60%.
+### 🎨 [VoxMark AI](https://github.com/ashimcs/voxmark-ai)
+**Intelligent Content Generation Suite**
+
+Modular drag-and-drop canvas with high-throughput image-rendering pipeline via Pillow, accelerating creative workflows by ~50%.
+
+`Flutter` `Django REST` `MySQL` `Google GenAI SDK`
+
+</td>
+<td width="50%">
+
+### 🙂 [MindSpace](https://github.com/ashimcs/mindspace)
+**Computer Vision Emotional Tracking Platform**
+
+Real-time webcam-based facial emotion mapping using face-api.js, visualized through interactive Chart.js analytics dashboards.
+
+`JS` `Django` `MongoDB` `face-api.js` `Chart.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎯 [AI Career Guidance Suite](https://github.com/ashimcs/ai-career-guidance)
+**NLP Resume-to-Job Matching Engine**
+
+Automated skill-gap analysis comparing resumes against job listings, with dynamic roadmap visualizations.
+
+`Django` `MySQL` `Groq NLP` `Chart.js`
+
+</td>
+<td width="50%">
+
+### 📦 [Smart PDS](https://github.com/ashimcs/smart-pds)
+**Public Distribution System Tracking Platform**
+
+Multi-tenant inventory platform with real-time leakage detection, cutting supervisor inspection time by ~60%.
 
 `Django` `MySQL` `RBAC`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%">
 
-#### 🚗 [CarCare SOS](https://github.com/ashimcs/carcare-sos)
-On-demand vehicle assistance dispatch platform. Live GPS-to-technician matching via Leaflet.js, SMTP-driven audit trails, and a glassmorphism UI built for high-stress usability.
+### 🚗 [CarCare SOS](https://github.com/ashimcs/carcare-sos)
+**On-Demand Vehicle Assistance Dispatch**
 
-`Django` `Leaflet.js` `MySQL` `SMTP`
+Real-time GPS dispatch matrix connecting users to technicians via Leaflet.js, with automated SMTP audit logging.
+
+`Django` `MySQL` `Leaflet.js` `Glassmorphism UI`
+
+</td>
+<td width="50%">
+
+### 🏠 [LuxDwell](https://github.com/ashimcs/luxdwell)
+**Automated Real Estate Operations Engine**
+
+Concurrency-safe booking system with real-time availability sync and transactional locking to prevent overbooking.
+
+`Django` `MySQL` `Bootstrap`
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <details>
-<summary><b>🏘️ More projects — AI Career Guidance Suite, LuxDwell, Shieldify, Safety</b></summary>
+<summary><b>🛡️ More Academic & Security Projects</b></summary>
 <br/>
 
 | Project | Description | Stack |
 |---|---|---|
-| **AI Career Guidance Suite** | NLP-based resume vs. job-listing matcher with skill-gap scoring and roadmap visualizations | Django, Groq NLP, MySQL, Chart.js |
-| **LuxDwell** | Real estate ops engine with real-time availability sync and transactional locking to prevent double-booking | Django, MySQL |
-| **Shieldify** | Web Application Firewall admin interface with live threat-log parsing and rule-deployment dashboard | Django, SQLite, JS |
-| **Safety** | Emergency response Android app with battery-efficient background broadcasting and retry-safe REST calls | Native Android (Java/Kotlin) |
+| **[Shieldify](https://github.com/ashimcs/shieldify)** | Web Application Firewall interface with live security telemetry, threat logging, and IP-rule management | `Django` `JS` `SQLite` |
+| **[Safety](https://github.com/ashimcs/safety-app)** | Emergency response Android app with battery-efficient background broadcast services | `Android (Java/Kotlin)` `REST API` |
 
 </details>
 
-</div>
+<br/>
 
----
-
-### `>` github_stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashimcs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=ff00c8&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashimcs&theme=dark&hide_border=true&background=0d1117&ring=00fff2&fire=ff00c8&currStreakLabel=00fff2" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimcs&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashimcs&theme=react-dark&bg_color=0d1117&color=00fff2&line=ff00c8&point=ffffff&hide_border=true" width="98%"/>
-
-</div>
-
-> **Note:** stat cards above run on free third-party Vercel deployments (`github-readme-stats`, `streak-stats`) that occasionally rate-limit or go down. If a card stops rendering, the fix is usually one of:
-> 1. Fork the repo and deploy your own instance on Vercel, then swap the URL.
-> 2. Swap to a mirror host (search the project's README for "alternative deployments").
-> 3. Worst case, the badge silently fails — it won't break the rest of the page.
-
----
-
-### `>` certifications
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter_%26_Mobile_App_Architectures-Sans_Borne_Web_Solutions-00FFF2?style=flat-square&logo=flutter&logoColor=black)
-![IBM](https://img.shields.io/badge/Gen_AI_Advanced_Fine--Tuning_for_LLMs-IBM-FF00C8?style=flat-square&logo=ibm&logoColor=white)
-![IBM](https://img.shields.io/badge/Gen_AI_%26_LLMs%3A_Architecture-IBM-8A2BE2?style=flat-square&logo=ibm&logoColor=white)
-![IBM](https://img.shields.io/badge/Intro_to_AI-IBM-FF00C8?style=flat-square&logo=ibm&logoColor=white)
-![Google](https://img.shields.io/badge/Accelerate_Job_Search_w%2F_AI-Google-00FFF2?style=flat-square&logo=google&logoColor=black)
-
-</div>
-
----
-
-<div align="center">
-
-### `>` connect
-
-[![LinkedIn](https://img.shields.io/badge/-Ashim_C_S-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/ashim-cs-4b7569397)
-[![Gmail](https://img.shields.io/badge/-ashimcs23%40gmail.com-EA4335?style=social&logo=gmail)](mailto:ashimcs23@gmail.com)
-[![GitHub](https://img.shields.io/badge/-ashimcs-181717?style=social&logo=github)](https://github.com/ashimcs)
+<img src="https://github-readme-stats.vercel.app/api?username=ashimcs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff00ff&text_color=c9d1d9&count_private=true" width="48%" alt="github stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashimcs&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff00ff&currStreakLabel=00f0ff" width="48%" alt="streak stats"/>
 
 <br/>
 
-```
-> echo "Thanks for stopping by — always open to interesting builds & collaborations."
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimcs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" width="48%" alt="top languages"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff2,50:8a2be2,100:0d1117&height=120&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashimcs&theme=tokyo-night&bg_color=0d1117&color=00f0ff&line=ff00ff&point=ffffff&hide_border=true" width="98%" alt="activity graph"/>
 
 </div>
 
----
+> 💡 **Note:** GitHub stat-card services (readme-stats, streak-stats, activity-graph) occasionally rate-limit or go down since they run on shared free infrastructure. If a card stops rendering, the fix is self-hosting your own instance on Vercel — fork the repo, deploy, and swap the URL. Static badges (shields.io, skillicons.dev) above won't break the same way, so the layout degrades gracefully even if a stats card goes dark.
 
-## 🐍 Snake Setup (one-time, optional)
+<br/>
 
-This README references a **snake contribution animation** that renders automatically once you add a GitHub Action. To activate it:
+## 🏆 Certifications
 
-1. Create a **new public repo** named exactly `ashimcs` (a "profile repo" — GitHub auto-detects it).
-2. Put this README.md as the repo's `README.md`.
-3. In that same repo, create `.github/workflows/snake.yml` with this content:
+<div align="center">
 
-```yaml
-name: generate-snake-animation
-on:
-  schedule:
-    - cron: "0 */6 * * *" # every 6 hours
-  workflow_dispatch: {}
-  push:
-    branches: ["main"]
+<img src="https://img.shields.io/badge/Flutter%20%26%20Mobile%20App%20Architectures-Sans%20Borne%20Web%20Solutions-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gen%20AI%20Advanced%20Fine--Tuning%20for%20LLMs-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gen%20AI%20%26%20LLMs%3A%20Architecture-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Intro%20to%20Artificial%20Intelligence-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Accelerate%20Job%20Search%20with%20AI-Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: ashimcs
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+</div>
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+<br/>
 
-4. Commit it, then run the workflow once manually from the **Actions** tab (or wait for the schedule).
-5. GitHub Pages branch `output` will then host the SVG this README already points to — no further edits needed.
+## 📫 Let's Connect
 
-If you'd rather skip the animation entirely, just delete the `<img src=".../snake.svg">` line near the top of this file.
+<div align="center">
+
+<a href="mailto:ashimcs23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ashimcs23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/ashim-cs-4b7569397">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="tel:+917025096864">
+  <img src="https://img.shields.io/badge/Mobile-%2B91%207025096864-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="https://github.com/ashimcs">
+  <img src="https://img.shields.io/badge/GitHub-ashimcs-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 *"Turning obscure commercial requirements into robust, modular code — one offline-first mesh at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00f0ff,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
