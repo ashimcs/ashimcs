@@ -18,6 +18,27 @@
 
 <br/>
 
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:ashimcs23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ashimcs23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/ashim-cs-4b7569397">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="tel:+917025096864">
+  <img src="https://img.shields.io/badge/Mobile-%2B91%207025096864-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="https://github.com/ashimcs">
+  <img src="https://img.shields.io/badge/GitHub-ashimcs-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake contribution graph"/>
 
 <br/>
@@ -221,27 +242,6 @@ Concurrency-safe booking system with real-time availability sync and transaction
 <br/>
 <img src="https://img.shields.io/badge/Intro%20to%20Artificial%20Intelligence-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Accelerate%20Job%20Search%20with%20AI-Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-</div>
-
-<br/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:ashimcs23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ashimcs23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/ashim-cs-4b7569397">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="tel:+917025096864">
-  <img src="https://img.shields.io/badge/Mobile-%2B91%207025096864-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="https://github.com/ashimcs">
-  <img src="https://img.shields.io/badge/GitHub-ashimcs-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
