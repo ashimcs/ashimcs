@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f0ff,100:ff00ff&height=220&section=header&text=ASHIM%20C%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Engineer%20|%20LLM%20%2B%20Computer%20Vision%20Integration&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f0ff,100:ff00ff&height=220&section=header&text=ASHIM%20C%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20and%20Mobile%20Engineer%20%E2%80%93%20LLM%20%2B%20Computer%20Vision%20Integration&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=750&height=60&lines=Building+offline-first+%26+AI-native+mobile+systems;Flutter+%E2%80%A2+Django+REST+%E2%80%A2+LLM+%2F+CV+Pipelines;Turning+chaotic+specs+into+shipped%2C+working+code;MCA+%40+KTU+%E2%80%A2+Kerala%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=750&height=60&lines=Building+offline-first+and+AI-native+mobile+systems;Flutter+%E2%80%A2+Django+REST+%E2%80%A2+LLM+%2F+CV+Pipelines;Turning+chaotic+specs+into+shipped%2C+working+code;MCA+%40+KTU+%E2%80%A2+Kerala%2C+India" alt="Typing SVG" />
 </a>
 
 <br/><br/>
