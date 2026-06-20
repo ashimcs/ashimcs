@@ -45,10 +45,7 @@
 
 ## ⚡ About Me
 
-<video align="right" width="320" autoplay loop muted playsinline>
-  <source src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" type="video/mp4">
-  <img align="right" alt="coding gif" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</video>
+<img align="right" alt="coding gif" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```python
 class AshimCS:
