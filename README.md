@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="./assets/banner.png" width="100%" style="border-radius: 12px; margin-bottom: 15px;" alt="Ashim CS - Cybernetic Systems & AI Engineering Banner"/>
+  <img src="./assets/banner.png" width="100%" style="max-height: 220px; object-fit: cover; border-radius: 12px; margin-bottom: 10px;" alt="Ashim CS Banner"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00f0ff&center=true&vCenter=true&width=750&height=60&lines=Building+offline-first+and+AI-native+mobile+systems;Flutter+%E2%80%A2+Django+REST+%E2%80%A2+LLM+%2F+CV+Pipelines;Turning+chaotic+specs+into+shipped%2C+working+code;MCA+%40+KTU+%E2%80%A2+Kerala%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2000&pause=500&color=00f0ff&center=true&vCenter=true&width=600&height=50&lines=ASHIM+C+S;Full-Stack+Engineer;Edge-AI+Architect" alt="ASHIM C S" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=ff2e92&center=true&vCenter=true&width=750&height=40&lines=Building+offline-first+and+AI-native+mobile+systems;Flutter+%E2%80%A2+Django+REST+%E2%80%A2+LLM+%2F+CV+Pipelines;Turning+chaotic+specs+into+shipped%2C+working+code" alt="Typing SVG Taglines" />
 </div>
 
 <div align="center">
@@ -28,6 +30,13 @@
   <a href="https://github.com/ashimcs">
     <img src="https://img.shields.io/badge/GitHub-ashimcs-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
+</div>
+
+<br/>
+
+<h3 align="center">🐍 CONTRIBUTION MATRIX</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ashimcs/ashimcs/output/snake-dark.svg" width="100%" alt="Snake Contribution Game"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff2e92,100:7b2ff7&height=2&section=header&animation=twinkling" width="100%"/>
