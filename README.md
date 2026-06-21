@@ -227,7 +227,7 @@ class AshimCS:
     </tr>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimcs&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" width="100%" alt="top languages"/></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=ashimcs&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" width="100%" alt="trophies"/></td>
+      <td><img src="https://github-profile-trophy-tawny.vercel.app/?username=ashimcs&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" width="100%" alt="trophies"/></td>
     </tr>
   </table>
   <br/>
