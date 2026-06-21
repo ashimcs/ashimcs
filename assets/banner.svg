@@ -1,15 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="250">
-  <style>
+  <defs>
     @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&amp;family=Share+Tech+Mono&amp;display=swap');
 
-    .bg {
-      fill: #080a14;
-    }
+    <!-- Glowing effect filters -->
+    <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="glow-purple" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Hexagonal Tech Background Pattern -->
+    <pattern id="hex-grid" width="24" height="41.56" patternUnits="userSpaceOnUse">
+      <path d="M 12 0 L 24 6.93 L 24 20.78 L 12 27.71 L 0 20.78 L 0 6.93 Z M 0 27.71 L 12 34.64 L 24 27.71 M 12 34.64 L 12 41.56" 
+            fill="none" stroke="#161b33" stroke-width="0.8" opacity="0.25"/>
+    </pattern>
+
+    <!-- Scanline overlay pattern -->
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="4" y2="0" stroke="#000000" stroke-width="1.2" opacity="0.18" />
+    </pattern>
+  </defs>
+
+  <style>
+    .bg { fill: #070913; }
     
-    .grid-line {
-      stroke: #161b33;
+    .hex-bg { fill: url(#hex-grid); }
+    .overlay { fill: url(#scanlines); }
+
+    .hud-border {
+      stroke: #00f0ff;
+      stroke-width: 1.5;
+      fill: none;
+      filter: url(#glow-cyan);
+      opacity: 0.8;
+      animation: borderFlicker 6s infinite;
+    }
+
+    .hud-accent {
+      stroke: #ff2e92;
       stroke-width: 1;
-      opacity: 0.4;
+      fill: none;
+      opacity: 0.6;
     }
 
     .neon-text {
@@ -18,143 +59,174 @@
       font-size: 58px;
       fill: #ffffff;
       text-shadow: 0 0 5px #00f0ff, 0 0 15px #00f0ff, 0 0 30px #7b2ff7, 0 0 45px #7b2ff7;
-      animation: neonPulse 2s ease-in-out infinite alternate;
+      animation: neonPulse 3s ease-in-out infinite alternate;
     }
 
     .sub-text {
       font-family: 'Share Tech Mono', monospace;
-      font-size: 14px;
+      font-size: 13.5px;
       fill: #00f0ff;
       letter-spacing: 4px;
-      opacity: 0.8;
-      animation: textGlitch 3s linear infinite;
+      opacity: 0.85;
+      animation: textGlitch 4s linear infinite;
     }
 
-    .terminal-text {
+    .terminal-tag {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 10px;
+      fill: #5a2fa0;
+      opacity: 0.8;
+    }
+
+    .terminal-data {
       font-family: 'Share Tech Mono', monospace;
       font-size: 11px;
-      fill: #5a2fa0;
-      opacity: 0.7;
+      fill: #00f0ff;
+      opacity: 0.85;
+      filter: url(#glow-cyan);
+      animation: blink 2s steps(2, start) infinite;
     }
 
-    .cyber-border {
-      stroke: #00f0ff;
-      stroke-width: 2;
-      fill: none;
-      filter: drop-shadow(0 0 5px #00f0ff);
-      animation: borderPulse 4s ease-in-out infinite alternate;
-    }
-
-    .circuit-path {
+    .circuit-line {
       fill: none;
       stroke: #7b2ff7;
-      stroke-width: 1.5;
-      stroke-linecap: round;
-      opacity: 0.6;
-      filter: drop-shadow(0 0 3px #7b2ff7);
+      stroke-width: 1.2;
+      opacity: 0.5;
+      filter: url(#glow-purple);
     }
 
-    .pulse-dot {
-      fill: #00f0ff;
-      filter: drop-shadow(0 0 4px #00f0ff);
-      animation: dotPulse 1.5s ease-in-out infinite alternate;
+    .circuit-signal {
+      stroke: #00f0ff;
+      stroke-width: 2;
+      stroke-dasharray: 8, 80;
+      stroke-dashoffset: 0;
+      animation: signalFlow 5s linear infinite;
     }
 
-    /* Animations */
+    .pulse-node {
+      fill: #ff2e92;
+      filter: url(#glow-purple);
+      animation: nodePulse 1s ease-in-out infinite alternate;
+    }
+
+    /* Keyframes */
     @keyframes neonPulse {
-      0% {
-        text-shadow: 0 0 4px #00f0ff, 0 0 10px #00f0ff, 0 0 20px #7b2ff7, 0 0 30px #7b2ff7;
-      }
-      100% {
-        text-shadow: 0 0 8px #00f0ff, 0 0 20px #00f0ff, 0 0 35px #7b2ff7, 0 0 55px #7b2ff7, 0 0 75px #7b2ff7;
-      }
+      0% { text-shadow: 0 0 4px #00f0ff, 0 0 10px #00f0ff, 0 0 20px #7b2ff7, 0 0 30px #7b2ff7; }
+      100% { text-shadow: 0 0 8px #00f0ff, 0 0 22px #00f0ff, 0 0 35px #7b2ff7, 0 0 55px #7b2ff7, 0 0 75px #7b2ff7; }
     }
 
-    @keyframes borderPulse {
-      0% { opacity: 0.7; stroke: #00f0ff; }
-      50% { opacity: 1; stroke: #ff2e92; filter: drop-shadow(0 0 6px #ff2e92); }
-      100% { opacity: 0.7; stroke: #00f0ff; }
+    @keyframes borderFlicker {
+      0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 0.8; }
+      20%, 24%, 55% { opacity: 0.3; stroke: #7b2ff7; }
     }
 
     @keyframes textGlitch {
-      0%, 95%, 100% { opacity: 0.8; transform: skewX(0deg); }
-      96% { opacity: 1; transform: skewX(-5deg); fill: #ff2e92; }
-      98% { opacity: 0.5; transform: skewX(5deg); fill: #7b2ff7; }
+      0%, 93%, 98%, 100% { transform: skewX(0deg); opacity: 0.85; }
+      94% { transform: skewX(-10deg); fill: #ff2e92; opacity: 1; }
+      96% { transform: skewX(10deg); fill: #7b2ff7; opacity: 0.6; }
     }
 
-    @keyframes dotPulse {
-      0% { r: 2px; opacity: 0.4; }
-      100% { r: 4px; opacity: 1; }
+    @keyframes blink {
+      to { visibility: hidden; }
     }
 
-    /* Signal flow along circuits */
-    .flow-line {
-      stroke: #00f0ff;
-      stroke-width: 2;
-      stroke-dasharray: 20, 100;
-      stroke-dashoffset: 0;
-      animation: flow 6s linear infinite;
+    @keyframes nodePulse {
+      0% { r: 1.5px; opacity: 0.5; }
+      100% { r: 3.5px; opacity: 1; }
     }
 
-    @keyframes flow {
-      to {
-        stroke-dashoffset: -200;
-      }
+    @keyframes signalFlow {
+      to { stroke-dashoffset: -160; }
+    }
+
+    @keyframes rot {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+
+    .rotate-hud-fast {
+      transform-origin: 65px 65px;
+      animation: rot 12s linear infinite;
+    }
+
+    .rotate-hud-slow {
+      transform-origin: 65px 65px;
+      animation: rot 25s linear infinite reverse;
     }
   </style>
 
-  <!-- Background -->
-  <rect width="100%" height="100%" class="bg" />
+  <!-- Base Grid Background -->
+  <rect width="800" height="250" class="bg" />
+  <rect width="800" height="250" class="hex-bg" />
 
-  <!-- Grid System -->
-  <g>
-    <!-- Vertical Grid Lines -->
-    <line x1="50" y1="0" x2="50" y2="250" class="grid-line" />
-    <line x1="150" y1="0" x2="150" y2="250" class="grid-line" />
-    <line x1="250" y1="0" x2="250" y2="250" class="grid-line" />
-    <line x1="350" y1="0" x2="350" y2="250" class="grid-line" />
-    <line x1="450" y1="0" x2="450" y2="250" class="grid-line" />
-    <line x1="550" y1="0" x2="550" y2="250" class="grid-line" />
-    <line x1="650" y1="0" x2="650" y2="250" class="grid-line" />
-    <line x1="750" y1="0" x2="750" y2="250" class="grid-line" />
-    
-    <!-- Horizontal Grid Lines -->
-    <line x1="0" y1="50" x2="800" y2="50" class="grid-line" />
-    <line x1="0" y1="100" x2="800" y2="100" class="grid-line" />
-    <line x1="0" y1="150" x2="800" y2="150" class="grid-line" />
-    <line x1="0" y1="200" x2="800" y2="200" class="grid-line" />
+  <!-- Animated Tech HUD Crosshair (Top Left) -->
+  <g transform="translate(15, 10)">
+    <!-- Outer dash ring -->
+    <circle cx="65" cy="65" r="42" class="hud-border rotate-hud-fast" stroke-dasharray="10, 8, 40, 8"/>
+    <!-- Inner dash ring -->
+    <circle cx="65" cy="65" r="30" class="hud-accent rotate-hud-slow" stroke-dasharray="6, 6"/>
+    <!-- Target cross -->
+    <line x1="20" y1="65" x2="110" y2="65" stroke="#00f0ff" stroke-width="0.5" opacity="0.4"/>
+    <line x1="65" y1="20" x2="65" y2="110" stroke="#00f0ff" stroke-width="0.5" opacity="0.4"/>
+    <circle cx="65" cy="65" r="3" fill="#ff2e92"/>
   </g>
 
-  <!-- Circuit Paths -->
-  <path d="M 50 125 L 120 125 L 150 155 L 220 155" class="circuit-path" />
-  <path d="M 50 125 L 120 125 L 150 155 L 220 155" class="circuit-path flow-line" />
-  <circle cx="220" cy="155" r="3" class="pulse-dot" />
+  <!-- Technical Circuit Paths -->
+  <!-- Left Side Circuits -->
+  <path d="M 120 65 L 180 65 L 210 95 L 280 95" class="circuit-line" />
+  <path d="M 120 65 L 180 65 L 210 95 L 280 95" class="circuit-line circuit-signal" />
+  <circle cx="280" cy="95" r="3.5" class="pulse-node" />
 
-  <path d="M 750 125 L 680 125 L 650 95 L 580 95" class="circuit-path" />
-  <path d="M 750 125 L 680 125 L 650 95 L 580 95" class="circuit-path flow-line" />
-  <circle cx="580" cy="95" r="3" class="pulse-dot" />
+  <path d="M 40 180 L 100 180 L 130 150 L 180 150" class="circuit-line" />
+  <circle cx="180" cy="150" r="3.5" class="pulse-node" />
 
-  <path d="M 400 30 L 400 60 L 430 90" class="circuit-path" />
-  <circle cx="430" cy="90" r="3" class="pulse-dot" />
+  <!-- Right Side Circuits -->
+  <path d="M 720 70 L 660 70 L 630 100 L 580 100" class="circuit-line" />
+  <path d="M 720 70 L 660 70 L 630 100 L 580 100" class="circuit-line circuit-signal" />
+  <circle cx="580" cy="100" r="3.5" class="pulse-node" />
 
-  <!-- Cyberpunk Styled Outer Panel Border -->
-  <polygon points="40,30 50,20 750,20 760,30 760,220 750,230 50,230 40,220" class="cyber-border" />
+  <path d="M 760 170 L 700 170 L 670 140 L 620 140" class="circuit-line" />
+  <circle cx="620" cy="140" r="3.5" class="pulse-node" />
 
-  <!-- Corner details -->
-  <line x1="30" y1="40" x2="30" y2="70" stroke="#00f0ff" stroke-width="1" opacity="0.6"/>
-  <line x1="30" y1="40" x2="60" y2="40" stroke="#00f0ff" stroke-width="1" opacity="0.6"/>
-  <line x1="770" y1="210" x2="770" y2="180" stroke="#ff2e92" stroke-width="1" opacity="0.6"/>
-  <line x1="770" y1="210" x2="740" y2="210" stroke="#ff2e92" stroke-width="1" opacity="0.6"/>
+  <!-- Hexagonal Tech Data Node (Bottom Right) -->
+  <g transform="translate(735, 185)">
+    <polygon points="0,-25 21,-12 21,12 0,25 -21,12 -21,-12" class="hud-border" />
+    <polygon points="0,-18 15,-9 15,9 0,18 -15,9 -15,-9" class="hud-accent" stroke-dasharray="4,2"/>
+    <circle cx="0" cy="0" r="5" fill="#00f0ff" filter="url(#glow-cyan)"/>
+  </g>
 
-  <!-- Terminal Tags -->
-  <text x="55" y="38" class="terminal-text">&lt;dev_log::01101&gt;</text>
-  <text x="55" y="218" class="terminal-text">[INITIATING NETWORK_PROTOCOLS...]</text>
-  <text x="630" y="38" class="terminal-text">[0xFFAC1230]</text>
-  <text x="630" y="218" class="terminal-text">{code_running: true}</text>
+  <!-- Futuristic HUD Main Panel Frame -->
+  <!-- Outer border with sleek cut-out details -->
+  <polygon points="35,28 45,18 755,18 765,28 765,222 755,232 45,232 35,222" class="hud-border" />
+  <!-- Accent borders -->
+  <line x1="55" y1="232" x2="745" y2="232" class="hud-accent" />
+  <line x1="35" y1="48" x2="35" y2="202" class="hud-accent" />
 
-  <!-- Name & Subtitles -->
+  <!-- Corner Tech Details -->
+  <!-- Top Left Corner -->
+  <line x1="25" y1="38" x2="25" y2="68" stroke="#00f0ff" stroke-width="1.2" opacity="0.6"/>
+  <line x1="25" y1="38" x2="55" y2="38" stroke="#00f0ff" stroke-width="1.2" opacity="0.6"/>
+  <!-- Bottom Right Corner -->
+  <line x1="775" y1="212" x2="775" y2="182" stroke="#ff2e92" stroke-width="1.2" opacity="0.6"/>
+  <line x1="775" y1="212" x2="745" y2="212" stroke="#ff2e92" stroke-width="1.2" opacity="0.6"/>
+
+  <!-- HUD Terminal Tags & Logs -->
+  <!-- Left Side Tags -->
+  <text x="50" y="36" class="terminal-tag">&lt;dev_log::01101&gt;</text>
+  <text x="50" y="218" class="terminal-tag">[SYSTEM_INIT_OK]</text>
+  <text x="50" y="228" class="terminal-data">INITIATING_NETWORK_PROTOCOLS...</text>
+
+  <!-- Right Side Tags -->
+  <text x="645" y="36" class="terminal-tag">[0xFFAC1230]</text>
+  <text x="685" y="218" class="terminal-tag">{engine: active}</text>
+  <text x="685" y="228" class="terminal-data">SYS_STATUS::ONLINE</text>
+
+  <!-- Centered Name and Subtitle Showcase -->
   <g transform="translate(400, 125)">
-    <text x="0" y="15" text-anchor="middle" class="neon-text">ASHIM CS</text>
-    <text x="0" y="47" text-anchor="middle" class="sub-text">// FULL-STACK DEVELOPER | SYSTEMS ARCHITECT | CREATIVE CODER</text>
+    <text x="0" y="12" text-anchor="middle" class="neon-text">ASHIM CS</text>
+    <text x="0" y="44" text-anchor="middle" class="sub-text">// FULL-STACK DEVELOPER | SYSTEMS ARCHITECT | CREATIVE CODER</text>
   </g>
+
+  <!-- CRT Scanline Grid Overlay -->
+  <rect width="800" height="250" class="overlay" pointer-events="none" />
 </svg>
