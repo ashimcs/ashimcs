@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=ashimcs&label=Profile%20Views&color=7b2ff7&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/ashimcs?label=Followers&style=for-the-badge&color=ff2e92&logo=github" alt="followers"/>
 <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-39ff14?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=ffae00&label=Status&query=%24.status&url=https%3A%2F%2Fraw.githubusercontent.com%2Fashimcs%2Fashimcs%2Fmain%2Fstatus.json&logo=statuspage" alt="status"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=ffae00&label=Status&query=%24.status&url=https%3A%2F%2Fraw.githubusercontent.com%2Fashimcs%2Fashimcs%2Fmain%2Fstatus.json%3Fv%3D1&logo=statuspage" alt="status"/>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7b2ff7,100:ff2e92&height=2&section=header&animation=fadeIn" width="60%"/>
 </div>
@@ -31,9 +31,9 @@
 </div>
 <br/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/ashimcs/ashimcs/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 <br/><br/>
-<img src="https://raw.githubusercontent.com/ashimcs/ashimcs/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="animated rotating 3D contribution graph"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="animated rotating 3D contribution graph"/>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff2e92,100:7b2ff7&height=2&section=header&animation=twinkling" width="100%"/>
 ## ⚡ About Me
