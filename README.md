@@ -34,7 +34,7 @@
 
 <h3 align="center">🐍 CONTRIBUTION MATRIX</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashimcs/ashimcs/output/snake-dark.svg" width="100%" alt="Snake Contribution Game"/>
+  <img src="./assets/snake-dark.svg" width="100%" alt="Snake Contribution Game"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff2e92,100:7b2ff7&height=2&section=header&animation=twinkling" width="100%"/>
