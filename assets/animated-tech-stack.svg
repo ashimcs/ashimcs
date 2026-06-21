@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
+  <style>
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-8px); }
+      100% { transform: translateY(0px); }
+    }
+    .icon {
+      transform-origin: 24px 24px;
+    }
+    .float-1 { animation: float 3s ease-in-out infinite; }
+    .float-2 { animation: float 3s ease-in-out infinite 0.4s; }
+    .float-3 { animation: float 3s ease-in-out infinite 0.8s; }
+    .float-4 { animation: float 3s ease-in-out infinite 1.2s; }
+    .float-5 { animation: float 3s ease-in-out infinite 1.6s; }
+    .float-6 { animation: float 3s ease-in-out infinite 2.0s; }
+  </style>
+
+  <!-- Row of Floating Tech Icons -->
+  <g transform="translate(10, 20)">
+    <!-- Icon 1: Flutter -->
+    <g class="icon float-1" transform="translate(0, 0)">
+      <image href="https://skillicons.dev/icons?i=flutter" width="48" height="48"/>
+    </g>
+    <!-- Icon 2: Dart -->
+    <g class="icon float-2" transform="translate(65, 0)">
+      <image href="https://skillicons.dev/icons?i=dart" width="48" height="48"/>
+    </g>
+    <!-- Icon 3: Python -->
+    <g class="icon float-3" transform="translate(130, 0)">
+      <image href="https://skillicons.dev/icons?i=python" width="48" height="48"/>
+    </g>
+    <!-- Icon 4: Django -->
+    <g class="icon float-4" transform="translate(195, 0)">
+      <image href="https://skillicons.dev/icons?i=django" width="48" height="48"/>
+    </g>
+    <!-- Icon 5: Node.js -->
+    <g class="icon float-5" transform="translate(260, 0)">
+      <image href="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
+    </g>
+    <!-- Icon 6: JavaScript -->
+    <g class="icon float-6" transform="translate(325, 0)">
+      <image href="https://skillicons.dev/icons?i=js" width="48" height="48"/>
+    </g>
+    <!-- Icon 7: PostgreSQL -->
+    <g class="icon float-1" transform="translate(390, 0)">
+      <image href="https://skillicons.dev/icons?i=postgres" width="48" height="48"/>
+    </g>
+    <!-- Icon 8: MySQL -->
+    <g class="icon float-2" transform="translate(455, 0)">
+      <image href="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
+    </g>
+    <!-- Icon 9: MongoDB -->
+    <g class="icon float-3" transform="translate(520, 0)">
+      <image href="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
+    </g>
+    <!-- Icon 10: TensorFlow -->
+    <g class="icon float-4" transform="translate(585, 0)">
+      <image href="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/>
+    </g>
+    <!-- Icon 11: OpenCV -->
+    <g class="icon float-5" transform="translate(650, 0)">
+      <image href="https://skillicons.dev/icons?i=opencv" width="48" height="48"/>
+    </g>
+    <!-- Icon 12: Git -->
+    <g class="icon float-6" transform="translate(715, 0)">
+      <image href="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+    </g>
+  </g>
+</svg>

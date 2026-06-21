@@ -30,17 +30,11 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" style="border-radius: 8px; border: 1px solid #7b2ff7;" alt="3D contribution graph"/>
-  <br/><br/>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" style="border-radius: 8px; border: 1px solid #00f0ff;" alt="animated rotating 3D contribution graph"/>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff2e92,100:7b2ff7&height=2&section=header&animation=twinkling" width="100%"/>
 
 ## ⚡ System Console — About Me
+
+<img align="right" alt="coding loop" width="320" style="border-radius: 8px; margin-left: 15px;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```python
 class AshimCS:
@@ -73,7 +67,13 @@ class AshimCS:
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7b2ff7,100:ff2e92&height=2&section=header&animation=twinkling" width="100%"/>
 
-## 🧠 Tech Arsenal
+## 🧠 Tech Arsenal — Animated Matrix
+
+<div align="center">
+  <img src="./assets/animated-tech-stack.svg" width="100%" alt="Animated Floating Tech Stack"/>
+</div>
+
+<br/>
 
 <table>
   <tr>
