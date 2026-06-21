@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-39ff14?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=ffae00&label=Status&query=%24.status&url=https%3A%2F%2Fraw.githubusercontent.com%2Fashimcs%2Fashimcs%2Fmain%2Fstatus.json&logo=statuspage" alt="status"/>
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7b2ff7,100:ff2e92&height=2&section=header" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7b2ff7,100:ff2e92&height=2&section=header&animation=fadeIn" width="60%"/>
 </div>
 <br/>
 ## 📫 Let's Connect
@@ -31,9 +31,11 @@
 </div>
 <br/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/ashimcs/ashimcs/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake contribution graph"/>
+<img src="https://raw.githubusercontent.com/ashimcs/ashimcs/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/ashimcs/ashimcs/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="animated rotating 3D contribution graph"/>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff2e92,100:7b2ff7&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff2e92,100:7b2ff7&height=2&section=header&animation=twinkling" width="100%"/>
 ## ⚡ About Me
  
 ```python
@@ -58,7 +60,10 @@ class AshimCS:
 - 🎓 **Academic Background**: Master of Computer Applications (MCA) with a research focus on decentralized mesh networks and localized edge-AI vision.
 - 💬 **Leadership & Communication**: Fluent in 4 languages, experienced in driving technical discussions, client demos, and cross-functional collaboration.
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7b2ff7,100:ff2e92&height=2&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=00F0FF&center=true&vCenter=true&width=560&height=32&lines=%F0%9F%9F%A2+Currently+shipping%3A+Sentinel+AI+offline+mesh;%F0%9F%94%A8+Forging%3A+LLaMA-3-Vision+edge+pipelines" alt="status ticker" />
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7b2ff7,100:ff2e92&height=2&section=header&animation=twinkling" width="100%"/>
 </div>
 ## 🧠 Tech Arsenal
  
@@ -85,7 +90,7 @@ class AshimCS:
 <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
  
 </div>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff2e92,100:7b2ff7&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff2e92,100:7b2ff7&height=2&section=header&animation=fadeIn" width="100%"/>
 ## 🚀 Featured Projects
  
 <div align="center">
@@ -156,7 +161,7 @@ Concurrency-safe booking system with real-time availability sync and transaction
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
  
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff2e92,100:7b2ff7&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff2e92,100:7b2ff7&height=2&section=header&animation=fadeIn" width="100%"/>
 </div>
 <details>
 <summary><b>🛡️ More Academic & Security Projects (click to expand)</b></summary>
@@ -188,7 +193,7 @@ Concurrency-safe booking system with real-time availability sync and transaction
 > 💡 **Note:** GitHub stat-card services (readme-stats, streak-stats, trophy, activity-graph) occasionally rate-limit or go down since they run on shared free infrastructure. If a card stops rendering, the fix is self-hosting your own instance on Vercel — fork the repo, deploy, and swap the URL. Static badges (shields.io, skillicons.dev) won't break the same way, so the layout degrades gracefully even if a stats card goes dark.
  
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7b2ff7,100:ff2e92&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7b2ff7,100:ff2e92&height=2&section=header&animation=twinkling" width="100%"/>
 </div>
 ## 🏆 Certifications — Learning Path
  
@@ -232,4 +237,3 @@ Concurrency-safe booking system with real-time availability sync and transaction
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&height=35&lines=Thanks+for+visiting+%E2%80%94+let%27s+build+something+offline-first.;Star+a+repo+if+something+here+sparked+an+idea+%E2%9C%A8" alt="closing typing" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e92,50:7b2ff7,100:1a103d&height=120&section=footer" width="100%"/>
 </div>
- 
