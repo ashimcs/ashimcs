@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="250">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&amp;family=Share+Tech+Mono&amp;display=swap');
+
+    .bg {
+      fill: #080a14;
+    }
+    
+    .grid-line {
+      stroke: #161b33;
+      stroke-width: 1;
+      opacity: 0.4;
+    }
+
+    .neon-text {
+      font-family: 'Orbitron', sans-serif;
+      font-weight: 900;
+      font-size: 58px;
+      fill: #ffffff;
+      text-shadow: 0 0 5px #00f0ff, 0 0 15px #00f0ff, 0 0 30px #7b2ff7, 0 0 45px #7b2ff7;
+      animation: neonPulse 2s ease-in-out infinite alternate;
+    }
+
+    .sub-text {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 14px;
+      fill: #00f0ff;
+      letter-spacing: 4px;
+      opacity: 0.8;
+      animation: textGlitch 3s linear infinite;
+    }
+
+    .terminal-text {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 11px;
+      fill: #5a2fa0;
+      opacity: 0.7;
+    }
+
+    .cyber-border {
+      stroke: #00f0ff;
+      stroke-width: 2;
+      fill: none;
+      filter: drop-shadow(0 0 5px #00f0ff);
+      animation: borderPulse 4s ease-in-out infinite alternate;
+    }
+
+    .circuit-path {
+      fill: none;
+      stroke: #7b2ff7;
+      stroke-width: 1.5;
+      stroke-linecap: round;
+      opacity: 0.6;
+      filter: drop-shadow(0 0 3px #7b2ff7);
+    }
+
+    .pulse-dot {
+      fill: #00f0ff;
+      filter: drop-shadow(0 0 4px #00f0ff);
+      animation: dotPulse 1.5s ease-in-out infinite alternate;
+    }
+
+    /* Animations */
+    @keyframes neonPulse {
+      0% {
+        text-shadow: 0 0 4px #00f0ff, 0 0 10px #00f0ff, 0 0 20px #7b2ff7, 0 0 30px #7b2ff7;
+      }
+      100% {
+        text-shadow: 0 0 8px #00f0ff, 0 0 20px #00f0ff, 0 0 35px #7b2ff7, 0 0 55px #7b2ff7, 0 0 75px #7b2ff7;
+      }
+    }
+
+    @keyframes borderPulse {
+      0% { opacity: 0.7; stroke: #00f0ff; }
+      50% { opacity: 1; stroke: #ff2e92; filter: drop-shadow(0 0 6px #ff2e92); }
+      100% { opacity: 0.7; stroke: #00f0ff; }
+    }
+
+    @keyframes textGlitch {
+      0%, 95%, 100% { opacity: 0.8; transform: skewX(0deg); }
+      96% { opacity: 1; transform: skewX(-5deg); fill: #ff2e92; }
+      98% { opacity: 0.5; transform: skewX(5deg); fill: #7b2ff7; }
+    }
+
+    @keyframes dotPulse {
+      0% { r: 2px; opacity: 0.4; }
+      100% { r: 4px; opacity: 1; }
+    }
+
+    /* Signal flow along circuits */
+    .flow-line {
+      stroke: #00f0ff;
+      stroke-width: 2;
+      stroke-dasharray: 20, 100;
+      stroke-dashoffset: 0;
+      animation: flow 6s linear infinite;
+    }
+
+    @keyframes flow {
+      to {
+        stroke-dashoffset: -200;
+      }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- Grid System -->
+  <g>
+    <!-- Vertical Grid Lines -->
+    <line x1="50" y1="0" x2="50" y2="250" class="grid-line" />
+    <line x1="150" y1="0" x2="150" y2="250" class="grid-line" />
+    <line x1="250" y1="0" x2="250" y2="250" class="grid-line" />
+    <line x1="350" y1="0" x2="350" y2="250" class="grid-line" />
+    <line x1="450" y1="0" x2="450" y2="250" class="grid-line" />
+    <line x1="550" y1="0" x2="550" y2="250" class="grid-line" />
+    <line x1="650" y1="0" x2="650" y2="250" class="grid-line" />
+    <line x1="750" y1="0" x2="750" y2="250" class="grid-line" />
+    
+    <!-- Horizontal Grid Lines -->
+    <line x1="0" y1="50" x2="800" y2="50" class="grid-line" />
+    <line x1="0" y1="100" x2="800" y2="100" class="grid-line" />
+    <line x1="0" y1="150" x2="800" y2="150" class="grid-line" />
+    <line x1="0" y1="200" x2="800" y2="200" class="grid-line" />
+  </g>
+
+  <!-- Circuit Paths -->
+  <path d="M 50 125 L 120 125 L 150 155 L 220 155" class="circuit-path" />
+  <path d="M 50 125 L 120 125 L 150 155 L 220 155" class="circuit-path flow-line" />
+  <circle cx="220" cy="155" r="3" class="pulse-dot" />
+
+  <path d="M 750 125 L 680 125 L 650 95 L 580 95" class="circuit-path" />
+  <path d="M 750 125 L 680 125 L 650 95 L 580 95" class="circuit-path flow-line" />
+  <circle cx="580" cy="95" r="3" class="pulse-dot" />
+
+  <path d="M 400 30 L 400 60 L 430 90" class="circuit-path" />
+  <circle cx="430" cy="90" r="3" class="pulse-dot" />
+
+  <!-- Cyberpunk Styled Outer Panel Border -->
+  <polygon points="40,30 50,20 750,20 760,30 760,220 750,230 50,230 40,220" class="cyber-border" />
+
+  <!-- Corner details -->
+  <line x1="30" y1="40" x2="30" y2="70" stroke="#00f0ff" stroke-width="1" opacity="0.6"/>
+  <line x1="30" y1="40" x2="60" y2="40" stroke="#00f0ff" stroke-width="1" opacity="0.6"/>
+  <line x1="770" y1="210" x2="770" y2="180" stroke="#ff2e92" stroke-width="1" opacity="0.6"/>
+  <line x1="770" y1="210" x2="740" y2="210" stroke="#ff2e92" stroke-width="1" opacity="0.6"/>
+
+  <!-- Terminal Tags -->
+  <text x="55" y="38" class="terminal-text">&lt;dev_log::01101&gt;</text>
+  <text x="55" y="218" class="terminal-text">[INITIATING NETWORK_PROTOCOLS...]</text>
+  <text x="630" y="38" class="terminal-text">[0xFFAC1230]</text>
+  <text x="630" y="218" class="terminal-text">{code_running: true}</text>
+
+  <!-- Name & Subtitles -->
+  <g transform="translate(400, 125)">
+    <text x="0" y="15" text-anchor="middle" class="neon-text">ASHIM CS</text>
+    <text x="0" y="47" text-anchor="middle" class="sub-text">// FULL-STACK DEVELOPER | SYSTEMS ARCHITECT | CREATIVE CODER</text>
+  </g>
+</svg>

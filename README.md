@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" width="100%" style="max-height: 220px; object-fit: cover; border-radius: 12px; margin-bottom: 10px;" alt="Ashim CS Banner"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2000&pause=500&color=00f0ff&center=true&vCenter=true&width=600&height=50&lines=ASHIM+C+S;Full-Stack+Engineer;Edge-AI+Architect" alt="ASHIM C S" />
+  <img src="./assets/banner.svg" width="100%" style="border-radius: 12px; margin-bottom: 10px;" alt="Ashim CS Banner"/>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=ff2e92&center=true&vCenter=true&width=750&height=40&lines=Building+offline-first+and+AI-native+mobile+systems;Flutter+%E2%80%A2+Django+REST+%E2%80%A2+LLM+%2F+CV+Pipelines;Turning+chaotic+specs+into+shipped%2C+working+code" alt="Typing SVG Taglines" />
 </div>
